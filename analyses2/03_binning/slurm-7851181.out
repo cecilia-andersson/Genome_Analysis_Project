@@ -1,0 +1,14 @@
+Output depth matrix to depth.txt
+Reference fasta file /home/cean4862/genome_analysis/analyses/02_assembly/Megahit_co_out2/final.contigs.fa
+Output matrix to depth.txt
+Reading reference fasta file: /home/cean4862/genome_analysis/analyses/02_assembly/Megahit_co_out2/final.contigs.fa
+... 346473 sequences
+Opening 4 bams
+Consolidating headers
+Processing bam files
+ERROR: the bam file 'contigs_mapped33.bam' is not sorted!
+ERROR: the bam file 'contigs_mapped29.bam' is not sorted!
+Please execute 'samtools sort' on unsorted input bam files and try again!
+MetaBAT 2 (v2.12.1) using minContig 2500, minCV 1.0, minCVSum 1.0, maxP 95%, minS 60, and maxEdges 200. 
+[Error!] can't open input file depth.txt
+[Error!] There are no lines in the abundance depth file or fasta file!

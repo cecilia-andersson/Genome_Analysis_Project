@@ -1,0 +1,71 @@
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/32D1.bam'
+0 GFF lines processed.
+Warning: No features of type '{args.feature_type}' found.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/32D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300779 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/32D3.bam'
+0 GFF lines processed.
+Warning: No features of type '{args.feature_type}' found.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/32D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209951 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/33D1.bam'
+0 GFF lines processed.
+Warning: No features of type '{args.feature_type}' found.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/33D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300779 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/33D3.bam'
+0 GFF lines processed.
+Warning: No features of type '{args.feature_type}' found.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/33D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209951 alignment records processed.
+slurmstepd: error: *** JOB 7865894 ON s5 CANCELLED AT 2023-05-16T08:25:56 ***

@@ -1,0 +1,959 @@
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/1D1.bam'
+1569 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/1D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300785 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/1D3.bam'
+1569 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/1D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209962 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/2D1.bam'
+445 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/2D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300780 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/2D3.bam'
+445 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/2D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209951 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/3D1.bam'
+281 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/3D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300779 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/3D3.bam'
+281 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/3D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209953 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/4D1.bam'
+1521 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/4D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300782 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/4D3.bam'
+1521 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/4D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209951 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/5D1.bam'
+200 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/5D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300779 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/5D3.bam'
+200 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/5D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209951 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/6D1.bam'
+1097 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/6D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300877 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/6D3.bam'
+1097 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/6D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1210268 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/7D1.bam'
+1802 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/7D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300781 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/7D3.bam'
+1802 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/7D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209951 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/8D1.bam'
+1572 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/8D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300780 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/8D3.bam'
+1572 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/8D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209951 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/9D1.bam'
+747 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/9D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300781 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/9D3.bam'
+747 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/9D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209952 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/10D1.bam'
+1440 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/10D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300781 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/10D3.bam'
+1440 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/10D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209953 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/11D1.bam'
+758 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/11D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300779 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/11D3.bam'
+758 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/11D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209952 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/12D1.bam'
+1851 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/12D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300779 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/12D3.bam'
+1851 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/12D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209954 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/13D1.bam'
+1445 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/13D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300779 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/13D3.bam'
+1445 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/13D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209952 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/14D1.bam'
+2549 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/14D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300779 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/14D3.bam'
+2549 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/14D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209952 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/15D1.bam'
+1282 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/15D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300782 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/15D3.bam'
+1282 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/15D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209951 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/16D1.bam'
+1088 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/16D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300779 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/16D3.bam'
+1088 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/16D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209952 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/17D1.bam'
+213 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/17D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300780 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/17D3.bam'
+213 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/17D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209951 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/18D1.bam'
+2922 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/18D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300788 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/18D3.bam'
+2922 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/18D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209955 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/19D1.bam'
+1687 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/19D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300779 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/19D3.bam'
+1687 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/19D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209951 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/20D1.bam'
+1252 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/20D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300781 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/20D3.bam'
+1252 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/20D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209952 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/21D1.bam'
+940 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/21D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300779 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/21D3.bam'
+940 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/21D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209953 alignment records processed.
+sed: couldn't close stdout: Disk quota exceeded
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/22D1.bam'
+0 GFF lines processed.
+Warning: No features of type '{args.feature_type}' found.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/22D1.bam'
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/23D3.bam'
+0 GFF lines processed.
+Warning: No features of type '{args.feature_type}' found.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/23D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1210063 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/24D1.bam'
+445 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/24D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300911 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/24D3.bam'
+445 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/24D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1210044 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/25D1.bam'
+268 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/25D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300779 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/25D3.bam'
+268 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/25D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209952 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/26D1.bam'
+1595 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/26D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300781 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/26D3.bam'
+1595 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/26D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209951 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/27D1.bam'
+1463 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/27D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300783 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/27D3.bam'
+1463 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/27D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209951 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/28D1.bam'
+3207 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/28D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300780 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/28D3.bam'
+3207 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/28D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209955 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/29D1.bam'
+801 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/29D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300791 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/29D3.bam'
+801 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/29D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209964 alignment records processed.
+sed: couldn't close stdout: Disk quota exceeded
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/30D1.bam'
+715 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/30D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1300000 alignment records processed.
+1300781 alignment records processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/30D3.bam'
+715 GFF lines processed.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/30D3.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+500000 alignment records processed.
+600000 alignment records processed.
+700000 alignment records processed.
+800000 alignment records processed.
+900000 alignment records processed.
+1000000 alignment records processed.
+1100000 alignment records processed.
+1200000 alignment records processed.
+1209968 alignment records processed.
+sed: couldn't close stdout: Disk quota exceeded
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/31D1.bam'
+0 GFF lines processed.
+Warning: No features of type '{args.feature_type}' found.
+[E::idx_find_and_load] Could not retrieve index file for '/home/cean4862/genome_analysis/analyses/05_rnamapping/bams/31D1.bam'
+100000 alignment records processed.
+200000 alignment records processed.
+300000 alignment records processed.
+400000 alignment records processed.
+900000 alignment records processed.
+200000 alignment records processed.
+200000 alignment records processed.

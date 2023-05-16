@@ -1,0 +1,2700 @@
+[bwa_index] Pack FASTA... 0.02 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.47 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.23 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//4.fa
+[main] Real time: 0.826 sec; CPU: 0.754 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 11.775 CPU sec, 5.929 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 11.193 CPU sec, 5.657 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 11.111 CPU sec, 5.641 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 11.120 CPU sec, 5.608 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 10.980 CPU sec, 5.562 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.499 CPU sec, 5.344 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 2.047 CPU sec, 1.104 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//4.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 36.123 sec; CPU: 70.068 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 11.604 CPU sec, 5.815 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.827 CPU sec, 5.497 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 11.130 CPU sec, 5.652 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.941 CPU sec, 5.487 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.665 CPU sec, 5.430 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.754 CPU sec, 3.453 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//4.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 32.716 sec; CPU: 63.341 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.00 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.07 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.00 sec
+[bwa_index] Construct SA from BWT and Occ... 0.03 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//5.fa
+[main] Real time: 0.161 sec; CPU: 0.117 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 9.951 CPU sec, 5.000 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 9.426 CPU sec, 4.765 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 9.711 CPU sec, 4.922 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 10.804 CPU sec, 5.466 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 9.647 CPU sec, 4.897 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 9.348 CPU sec, 4.733 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 1.816 CPU sec, 0.996 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//5.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 32.004 sec; CPU: 62.019 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.656 CPU sec, 5.347 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 9.433 CPU sec, 4.794 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.644 CPU sec, 5.478 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.020 CPU sec, 5.145 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 9.845 CPU sec, 5.039 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 5.936 CPU sec, 3.072 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//5.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 30.162 sec; CPU: 57.793 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.25 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.12 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//6.fa
+[main] Real time: 0.457 sec; CPU: 0.402 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 10.365 CPU sec, 5.202 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.215 CPU sec, 5.178 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 10.250 CPU sec, 5.202 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 10.532 CPU sec, 5.371 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 10.406 CPU sec, 5.325 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.152 CPU sec, 5.128 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 1.968 CPU sec, 1.074 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//6.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 33.680 sec; CPU: 65.152 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.605 CPU sec, 5.341 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.411 CPU sec, 5.318 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.831 CPU sec, 5.516 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.560 CPU sec, 5.374 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.337 CPU sec, 5.252 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.641 CPU sec, 3.420 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//6.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 31.529 sec; CPU: 60.661 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.02 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.62 seconds elapse.
+[bwa_index] Update BWT... 0.02 sec
+[bwa_index] Pack forward-only FASTA... 0.02 sec
+[bwa_index] Construct SA from BWT and Occ... 0.30 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//7.fa
+[main] Real time: 1.081 sec; CPU: 0.984 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 11.278 CPU sec, 5.709 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.938 CPU sec, 5.475 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 10.972 CPU sec, 5.563 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 11.485 CPU sec, 5.907 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 11.349 CPU sec, 6.142 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.677 CPU sec, 6.409 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 2.080 CPU sec, 1.149 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//7.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 37.737 sec; CPU: 70.279 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 11.035 CPU sec, 5.545 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.885 CPU sec, 5.542 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 11.194 CPU sec, 5.724 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.956 CPU sec, 5.564 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.840 CPU sec, 5.475 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 7.003 CPU sec, 3.580 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//7.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 32.654 sec; CPU: 63.185 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.48 seconds elapse.
+[bwa_index] Update BWT... 0.02 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.23 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//8.fa
+[main] Real time: 0.835 sec; CPU: 0.758 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 10.935 CPU sec, 5.518 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.705 CPU sec, 5.409 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 10.779 CPU sec, 5.473 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 11.038 CPU sec, 5.613 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 10.848 CPU sec, 5.512 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.313 CPU sec, 5.258 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 2.014 CPU sec, 1.086 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//8.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 34.877 sec; CPU: 67.716 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.950 CPU sec, 5.510 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.626 CPU sec, 5.315 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 11.148 CPU sec, 5.643 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.767 CPU sec, 5.443 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.570 CPU sec, 5.343 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.823 CPU sec, 3.471 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//8.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 32.143 sec; CPU: 62.271 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.20 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.11 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//9.fa
+[main] Real time: 0.406 sec; CPU: 0.340 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 11.128 CPU sec, 5.589 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.736 CPU sec, 5.417 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 10.831 CPU sec, 5.508 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 11.110 CPU sec, 5.673 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 10.945 CPU sec, 5.638 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.496 CPU sec, 5.362 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 2.109 CPU sec, 1.180 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//9.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 35.626 sec; CPU: 68.685 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.701 CPU sec, 5.407 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.437 CPU sec, 5.280 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.855 CPU sec, 5.490 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.558 CPU sec, 5.351 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.412 CPU sec, 5.353 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.696 CPU sec, 3.454 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//9.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 31.596 sec; CPU: 60.884 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.43 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.22 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//10.fa
+[main] Real time: 0.761 sec; CPU: 0.681 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 10.947 CPU sec, 5.539 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.680 CPU sec, 5.408 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 11.001 CPU sec, 5.660 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 11.111 CPU sec, 5.659 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 10.688 CPU sec, 5.440 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.281 CPU sec, 5.209 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 2.042 CPU sec, 1.170 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//10.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 35.160 sec; CPU: 67.898 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.809 CPU sec, 5.432 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.854 CPU sec, 5.486 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.905 CPU sec, 5.657 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.651 CPU sec, 5.396 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.398 CPU sec, 5.282 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.691 CPU sec, 3.414 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//10.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 31.946 sec; CPU: 61.593 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.21 seconds elapse.
+[bwa_index] Update BWT... 0.02 sec
+[bwa_index] Pack forward-only FASTA... 0.00 sec
+[bwa_index] Construct SA from BWT and Occ... 0.12 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//11.fa
+[main] Real time: 0.416 sec; CPU: 0.367 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 10.451 CPU sec, 5.247 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.194 CPU sec, 5.157 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 10.206 CPU sec, 5.262 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 10.680 CPU sec, 5.455 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 10.390 CPU sec, 5.291 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 9.869 CPU sec, 4.996 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 1.952 CPU sec, 1.798 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//11.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 34.391 sec; CPU: 64.951 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.491 CPU sec, 5.259 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.169 CPU sec, 5.122 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.671 CPU sec, 5.412 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.243 CPU sec, 5.165 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.169 CPU sec, 5.187 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.487 CPU sec, 3.365 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//11.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 30.865 sec; CPU: 59.560 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.02 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.61 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.24 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//12.fa
+[main] Real time: 0.990 sec; CPU: 0.894 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 11.557 CPU sec, 5.799 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 11.148 CPU sec, 5.636 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 11.337 CPU sec, 5.732 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 11.472 CPU sec, 5.825 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 11.278 CPU sec, 5.664 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.875 CPU sec, 6.357 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 2.127 CPU sec, 1.148 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//12.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 37.306 sec; CPU: 70.984 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 11.293 CPU sec, 5.669 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 11.124 CPU sec, 5.631 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 11.551 CPU sec, 5.933 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 11.199 CPU sec, 5.682 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 11.913 CPU sec, 7.845 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 7.274 CPU sec, 3.730 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//12.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 35.809 sec; CPU: 65.659 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.37 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.19 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//13.fa
+[main] Real time: 0.667 sec; CPU: 0.598 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 10.090 CPU sec, 5.081 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 9.736 CPU sec, 4.986 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 9.903 CPU sec, 5.016 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 10.353 CPU sec, 6.005 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 9.840 CPU sec, 5.044 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 9.326 CPU sec, 8.979 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 1.917 CPU sec, 1.054 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//13.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 37.301 sec; CPU: 62.339 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.341 CPU sec, 5.189 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 9.750 CPU sec, 4.882 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.319 CPU sec, 5.264 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 9.895 CPU sec, 5.075 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 9.695 CPU sec, 4.928 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.172 CPU sec, 3.192 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//13.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 29.901 sec; CPU: 57.558 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.03 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.83 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.29 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//14.fa
+[main] Real time: 1.310 sec; CPU: 1.177 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 11.368 CPU sec, 5.763 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 11.015 CPU sec, 5.578 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 11.054 CPU sec, 5.589 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 11.267 CPU sec, 5.709 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 10.953 CPU sec, 5.571 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.532 CPU sec, 5.388 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 2.071 CPU sec, 1.133 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//14.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 35.705 sec; CPU: 69.303 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 11.007 CPU sec, 5.556 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.798 CPU sec, 5.451 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 11.144 CPU sec, 5.651 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.735 CPU sec, 5.431 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.653 CPU sec, 5.461 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.857 CPU sec, 3.555 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//14.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 32.514 sec; CPU: 62.600 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.40 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.20 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//15.fa
+[main] Real time: 0.722 sec; CPU: 0.637 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 10.922 CPU sec, 5.485 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.707 CPU sec, 5.423 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 10.816 CPU sec, 5.537 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 10.912 CPU sec, 5.506 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 10.808 CPU sec, 5.437 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.377 CPU sec, 5.258 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 2.028 CPU sec, 1.116 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//15.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 34.933 sec; CPU: 67.779 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.947 CPU sec, 5.618 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.549 CPU sec, 5.281 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.850 CPU sec, 5.515 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.772 CPU sec, 5.405 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.565 CPU sec, 5.372 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.833 CPU sec, 3.550 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//15.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 32.211 sec; CPU: 62.067 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.31 seconds elapse.
+[bwa_index] Update BWT... 0.02 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.16 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//16.fa
+[main] Real time: 0.576 sec; CPU: 0.522 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 10.782 CPU sec, 5.403 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.514 CPU sec, 5.308 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 10.498 CPU sec, 5.315 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 10.745 CPU sec, 5.439 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 10.625 CPU sec, 5.387 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.034 CPU sec, 5.168 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 1.990 CPU sec, 1.104 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//16.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 34.388 sec; CPU: 66.452 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.600 CPU sec, 5.322 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.271 CPU sec, 5.236 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.688 CPU sec, 5.444 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.523 CPU sec, 5.371 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.320 CPU sec, 5.235 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.500 CPU sec, 3.423 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//16.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 31.509 sec; CPU: 60.336 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.00 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.06 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.00 sec
+[bwa_index] Construct SA from BWT and Occ... 0.03 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//17.fa
+[main] Real time: 0.133 sec; CPU: 0.104 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 9.585 CPU sec, 4.805 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 9.196 CPU sec, 4.726 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 9.388 CPU sec, 4.930 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 10.392 CPU sec, 5.302 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 9.371 CPU sec, 4.762 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 8.844 CPU sec, 4.544 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 1.791 CPU sec, 0.989 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//17.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 31.342 sec; CPU: 59.905 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.428 CPU sec, 5.225 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 9.189 CPU sec, 4.691 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.467 CPU sec, 5.337 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 9.784 CPU sec, 4.986 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 9.270 CPU sec, 4.699 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 5.811 CPU sec, 2.981 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//17.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 29.299 sec; CPU: 56.319 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.03 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 1.21 seconds elapse.
+[bwa_index] Update BWT... 0.02 sec
+[bwa_index] Pack forward-only FASTA... 0.04 sec
+[bwa_index] Construct SA from BWT and Occ... 0.59 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//18.fa
+[main] Real time: 2.037 sec; CPU: 1.893 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 11.008 CPU sec, 5.539 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.783 CPU sec, 5.396 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 10.814 CPU sec, 5.574 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 11.101 CPU sec, 5.630 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 11.118 CPU sec, 5.644 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.497 CPU sec, 5.345 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 2.069 CPU sec, 1.130 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//18.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 35.595 sec; CPU: 68.819 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.959 CPU sec, 5.518 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.772 CPU sec, 5.463 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 11.172 CPU sec, 5.708 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.817 CPU sec, 5.481 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.657 CPU sec, 5.403 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.834 CPU sec, 3.528 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//18.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 32.537 sec; CPU: 62.617 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.02 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.55 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.19 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//19.fa
+[main] Real time: 0.901 sec; CPU: 0.790 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 11.047 CPU sec, 5.553 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.703 CPU sec, 5.389 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 10.753 CPU sec, 5.479 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 11.153 CPU sec, 5.615 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 10.758 CPU sec, 5.498 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.404 CPU sec, 5.287 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 2.009 CPU sec, 1.081 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//19.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 35.144 sec; CPU: 68.098 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.978 CPU sec, 5.540 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.590 CPU sec, 5.384 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.908 CPU sec, 5.504 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.563 CPU sec, 5.392 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.547 CPU sec, 5.376 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.745 CPU sec, 3.522 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//19.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 32.210 sec; CPU: 61.830 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.39 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.15 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//20.fa
+[main] Real time: 0.657 sec; CPU: 0.583 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 11.268 CPU sec, 5.659 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 11.018 CPU sec, 5.615 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 10.937 CPU sec, 5.549 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 11.183 CPU sec, 5.642 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 11.004 CPU sec, 5.508 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.579 CPU sec, 5.342 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 2.061 CPU sec, 1.140 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//20.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 35.726 sec; CPU: 69.426 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.989 CPU sec, 5.535 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.867 CPU sec, 5.482 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 11.115 CPU sec, 5.622 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 11.068 CPU sec, 6.240 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.819 CPU sec, 5.464 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 7.016 CPU sec, 5.647 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//20.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 35.246 sec; CPU: 63.101 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.30 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.15 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//21.fa
+[main] Real time: 0.551 sec; CPU: 0.488 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 10.776 CPU sec, 5.406 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.405 CPU sec, 5.364 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 10.411 CPU sec, 5.226 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 10.814 CPU sec, 5.483 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 10.396 CPU sec, 5.287 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 9.910 CPU sec, 5.163 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 1.966 CPU sec, 1.078 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//21.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 34.360 sec; CPU: 66.020 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.503 CPU sec, 5.267 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.275 CPU sec, 5.180 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.697 CPU sec, 5.459 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.413 CPU sec, 5.277 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.094 CPU sec, 5.104 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.544 CPU sec, 3.387 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//21.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 30.959 sec; CPU: 59.781 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.00 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.16 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.00 sec
+[bwa_index] Construct SA from BWT and Occ... 0.08 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//22.fa
+[main] Real time: 0.306 sec; CPU: 0.259 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 10.200 CPU sec, 5.113 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 9.908 CPU sec, 5.041 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 9.991 CPU sec, 5.106 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 10.398 CPU sec, 5.312 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 10.063 CPU sec, 5.151 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 9.578 CPU sec, 4.873 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 1.871 CPU sec, 1.001 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//22.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 32.819 sec; CPU: 63.316 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.379 CPU sec, 5.207 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 9.884 CPU sec, 5.003 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.302 CPU sec, 5.227 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.023 CPU sec, 5.126 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 9.892 CPU sec, 5.017 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.190 CPU sec, 3.197 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//22.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 30.093 sec; CPU: 57.967 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.30 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.15 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//23.fa
+[main] Real time: 0.558 sec; CPU: 0.492 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 10.910 CPU sec, 5.464 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.575 CPU sec, 5.346 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 10.680 CPU sec, 5.698 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 11.074 CPU sec, 5.700 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 10.782 CPU sec, 5.445 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.287 CPU sec, 5.216 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 2.019 CPU sec, 1.082 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//23.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 35.125 sec; CPU: 67.567 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 11.012 CPU sec, 5.543 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.816 CPU sec, 5.524 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 11.078 CPU sec, 5.653 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.813 CPU sec, 5.473 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.700 CPU sec, 5.412 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.859 CPU sec, 3.473 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//23.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 32.494 sec; CPU: 62.674 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.00 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.09 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.05 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//24.fa
+[main] Real time: 0.204 sec; CPU: 0.157 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 9.782 CPU sec, 4.910 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 9.508 CPU sec, 4.839 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 9.506 CPU sec, 4.853 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 10.302 CPU sec, 5.261 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 9.611 CPU sec, 4.833 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 9.123 CPU sec, 4.640 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 1.851 CPU sec, 1.035 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//24.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 31.629 sec; CPU: 60.984 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.313 CPU sec, 5.183 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 9.474 CPU sec, 4.786 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.446 CPU sec, 5.311 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 9.691 CPU sec, 4.977 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 9.450 CPU sec, 4.728 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.033 CPU sec, 3.080 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//24.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 29.552 sec; CPU: 56.822 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.00 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.06 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.00 sec
+[bwa_index] Construct SA from BWT and Occ... 0.03 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//25.fa
+[main] Real time: 0.137 sec; CPU: 0.105 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 9.865 CPU sec, 4.961 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 9.425 CPU sec, 4.811 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 9.678 CPU sec, 4.884 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 10.685 CPU sec, 5.430 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 9.618 CPU sec, 4.881 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 9.172 CPU sec, 4.674 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 1.794 CPU sec, 0.969 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//25.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 31.975 sec; CPU: 61.637 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.621 CPU sec, 5.361 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 9.370 CPU sec, 4.805 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.814 CPU sec, 5.480 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.008 CPU sec, 5.074 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 9.630 CPU sec, 4.867 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 5.990 CPU sec, 3.098 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//25.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 30.064 sec; CPU: 57.811 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.43 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.02 sec
+[bwa_index] Construct SA from BWT and Occ... 0.17 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//26.fa
+[main] Real time: 0.723 sec; CPU: 0.647 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 10.648 CPU sec, 5.357 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.275 CPU sec, 5.142 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 10.509 CPU sec, 5.303 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 10.658 CPU sec, 5.398 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 10.362 CPU sec, 5.227 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.094 CPU sec, 5.113 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 1.931 CPU sec, 1.029 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//26.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 34.133 sec; CPU: 66.064 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.660 CPU sec, 5.354 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.321 CPU sec, 5.216 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.797 CPU sec, 5.419 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.492 CPU sec, 5.278 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.240 CPU sec, 5.187 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.524 CPU sec, 3.369 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//26.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 31.266 sec; CPU: 60.400 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.32 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.16 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//27.fa
+[main] Real time: 0.586 sec; CPU: 0.517 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 11.029 CPU sec, 5.544 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.730 CPU sec, 5.368 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 10.924 CPU sec, 5.525 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 11.164 CPU sec, 5.652 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 10.904 CPU sec, 5.536 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.574 CPU sec, 5.432 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 2.129 CPU sec, 1.216 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//27.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 35.391 sec; CPU: 68.618 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.967 CPU sec, 5.507 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.690 CPU sec, 5.415 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 11.028 CPU sec, 5.593 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.969 CPU sec, 5.570 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.707 CPU sec, 5.422 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.792 CPU sec, 3.522 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//27.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 32.362 sec; CPU: 62.427 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.03 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 1.03 seconds elapse.
+[bwa_index] Update BWT... 0.02 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.38 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//28.fa
+[main] Real time: 1.599 sec; CPU: 1.471 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 11.743 CPU sec, 5.889 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 11.392 CPU sec, 5.808 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 11.605 CPU sec, 5.940 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 11.836 CPU sec, 6.041 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 11.639 CPU sec, 5.899 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 11.129 CPU sec, 5.625 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 2.217 CPU sec, 1.222 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//28.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 37.752 sec; CPU: 72.897 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 11.519 CPU sec, 5.818 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 11.297 CPU sec, 5.700 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 11.714 CPU sec, 5.886 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 11.498 CPU sec, 5.836 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 11.327 CPU sec, 5.728 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 7.262 CPU sec, 3.704 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//28.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 34.041 sec; CPU: 65.984 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.17 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.00 sec
+[bwa_index] Construct SA from BWT and Occ... 0.09 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//29.fa
+[main] Real time: 0.344 sec; CPU: 0.288 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 10.348 CPU sec, 5.219 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.157 CPU sec, 5.084 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 10.310 CPU sec, 5.237 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 10.457 CPU sec, 5.305 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 10.221 CPU sec, 5.156 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 9.833 CPU sec, 5.030 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 1.942 CPU sec, 1.043 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//29.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 33.419 sec; CPU: 64.628 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.384 CPU sec, 5.273 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.108 CPU sec, 5.100 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.444 CPU sec, 5.290 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.323 CPU sec, 5.272 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.067 CPU sec, 5.125 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.440 CPU sec, 3.282 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//29.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 30.620 sec; CPU: 59.070 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.03 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.83 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.02 sec
+[bwa_index] Construct SA from BWT and Occ... 0.31 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//30.fa
+[main] Real time: 1.372 sec; CPU: 1.211 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 11.479 CPU sec, 5.793 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 11.317 CPU sec, 5.716 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 11.371 CPU sec, 5.772 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 11.399 CPU sec, 5.895 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 11.484 CPU sec, 5.838 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 11.015 CPU sec, 5.986 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 2.136 CPU sec, 1.159 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//30.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 37.332 sec; CPU: 71.389 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 11.362 CPU sec, 5.749 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 11.080 CPU sec, 5.557 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 11.425 CPU sec, 5.808 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 11.243 CPU sec, 5.727 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 11.094 CPU sec, 5.609 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 7.115 CPU sec, 3.615 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//30.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 33.410 sec; CPU: 64.628 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.43 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.16 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//31.fa
+[main] Real time: 0.700 sec; CPU: 0.633 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 11.289 CPU sec, 5.659 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.981 CPU sec, 5.546 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 11.066 CPU sec, 5.608 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 11.157 CPU sec, 5.598 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 11.008 CPU sec, 5.589 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.551 CPU sec, 5.356 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 2.062 CPU sec, 1.125 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//31.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 35.704 sec; CPU: 69.448 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 11.230 CPU sec, 5.636 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.860 CPU sec, 5.469 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 11.269 CPU sec, 5.665 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.938 CPU sec, 5.541 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.757 CPU sec, 5.445 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.879 CPU sec, 3.502 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//31.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 32.694 sec; CPU: 63.302 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.13 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.00 sec
+[bwa_index] Construct SA from BWT and Occ... 0.07 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//32.fa
+[main] Real time: 0.280 sec; CPU: 0.234 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 10.536 CPU sec, 5.304 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.127 CPU sec, 5.066 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 10.160 CPU sec, 5.163 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 10.579 CPU sec, 5.343 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 10.318 CPU sec, 5.233 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 9.712 CPU sec, 4.868 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 1.901 CPU sec, 1.043 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//32.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 33.388 sec; CPU: 64.712 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.496 CPU sec, 5.277 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.060 CPU sec, 5.082 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.737 CPU sec, 5.498 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.079 CPU sec, 5.098 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 9.864 CPU sec, 4.948 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.339 CPU sec, 3.240 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//32.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 30.595 sec; CPU: 58.995 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.20 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.11 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//33.fa
+[main] Real time: 0.425 sec; CPU: 0.357 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 10.476 CPU sec, 5.256 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.185 CPU sec, 5.157 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 10.424 CPU sec, 5.248 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 10.549 CPU sec, 5.358 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 10.319 CPU sec, 5.237 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 9.827 CPU sec, 4.943 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 1.970 CPU sec, 1.087 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//33.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 33.511 sec; CPU: 65.016 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.404 CPU sec, 5.266 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.143 CPU sec, 5.117 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.549 CPU sec, 5.359 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.164 CPU sec, 5.149 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.063 CPU sec, 5.088 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.498 CPU sec, 3.323 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//33.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 30.617 sec; CPU: 59.179 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.02 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.50 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.19 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//34.fa
+[main] Real time: 0.829 sec; CPU: 0.745 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 11.282 CPU sec, 5.667 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.901 CPU sec, 5.513 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 10.904 CPU sec, 5.533 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 11.100 CPU sec, 5.557 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 11.007 CPU sec, 5.585 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.519 CPU sec, 5.294 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 2.066 CPU sec, 1.120 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//34.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 35.530 sec; CPU: 69.108 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 11.174 CPU sec, 5.623 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.767 CPU sec, 5.459 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 11.280 CPU sec, 5.738 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.908 CPU sec, 5.511 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.702 CPU sec, 5.413 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.902 CPU sec, 3.536 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//34.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 32.572 sec; CPU: 62.971 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.00 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.06 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.00 sec
+[bwa_index] Construct SA from BWT and Occ... 0.03 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//35.fa
+[main] Real time: 0.162 sec; CPU: 0.106 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 9.819 CPU sec, 4.957 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 9.524 CPU sec, 4.840 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 9.572 CPU sec, 4.857 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 10.778 CPU sec, 5.456 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 9.630 CPU sec, 4.934 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 9.239 CPU sec, 4.724 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 1.791 CPU sec, 0.990 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//35.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 31.790 sec; CPU: 61.440 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.551 CPU sec, 5.341 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 9.573 CPU sec, 4.865 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.481 CPU sec, 5.348 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 9.855 CPU sec, 5.045 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 9.780 CPU sec, 4.956 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.000 CPU sec, 3.183 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//35.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 30.032 sec; CPU: 57.552 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.00 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.14 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.07 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//36.fa
+[main] Real time: 0.283 sec; CPU: 0.237 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 9.837 CPU sec, 4.950 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 9.522 CPU sec, 4.821 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 9.639 CPU sec, 4.884 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 10.197 CPU sec, 5.177 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 9.642 CPU sec, 4.887 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 9.080 CPU sec, 4.699 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 1.797 CPU sec, 0.971 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//36.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 31.571 sec; CPU: 60.913 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.195 CPU sec, 5.138 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 9.572 CPU sec, 4.908 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.295 CPU sec, 5.254 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 9.896 CPU sec, 6.344 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 9.372 CPU sec, 4.744 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 5.925 CPU sec, 3.015 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//36.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 30.758 sec; CPU: 56.557 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.26 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.00 sec
+[bwa_index] Construct SA from BWT and Occ... 0.15 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//37.fa
+[main] Real time: 0.492 sec; CPU: 0.438 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 10.785 CPU sec, 5.409 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.580 CPU sec, 5.389 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 10.568 CPU sec, 5.411 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 10.927 CPU sec, 5.537 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 10.600 CPU sec, 5.368 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.175 CPU sec, 5.166 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 1.971 CPU sec, 1.074 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//37.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 34.623 sec; CPU: 66.937 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.703 CPU sec, 5.375 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.292 CPU sec, 5.303 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.719 CPU sec, 5.472 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.649 CPU sec, 5.427 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.402 CPU sec, 5.255 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.595 CPU sec, 3.347 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//37.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 31.541 sec; CPU: 60.685 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.00 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.13 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.00 sec
+[bwa_index] Construct SA from BWT and Occ... 0.07 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//38.fa
+[main] Real time: 0.244 sec; CPU: 0.204 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 9.564 CPU sec, 4.795 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 9.249 CPU sec, 4.781 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 9.369 CPU sec, 4.757 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 10.281 CPU sec, 5.230 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 9.345 CPU sec, 4.808 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 9.039 CPU sec, 4.599 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 1.770 CPU sec, 1.618 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//38.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 31.816 sec; CPU: 59.843 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.297 CPU sec, 5.196 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 9.482 CPU sec, 4.900 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.339 CPU sec, 5.216 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 9.427 CPU sec, 4.765 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 9.351 CPU sec, 4.679 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 5.878 CPU sec, 3.031 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//38.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 29.326 sec; CPU: 56.318 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.64 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.30 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//39.fa
+[main] Real time: 1.103 sec; CPU: 0.975 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 11.303 CPU sec, 5.794 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 11.035 CPU sec, 5.555 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 11.115 CPU sec, 5.595 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 11.427 CPU sec, 5.793 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 11.367 CPU sec, 5.774 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.690 CPU sec, 5.427 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 2.102 CPU sec, 1.120 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//39.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 36.329 sec; CPU: 70.321 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 11.206 CPU sec, 5.631 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.931 CPU sec, 5.604 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 11.280 CPU sec, 5.703 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.991 CPU sec, 5.506 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.839 CPU sec, 5.507 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.919 CPU sec, 3.513 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//39.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 32.927 sec; CPU: 63.684 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.00 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.18 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.10 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//40.fa
+[main] Real time: 0.355 sec; CPU: 0.294 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 10.113 CPU sec, 5.083 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 9.771 CPU sec, 4.903 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 9.803 CPU sec, 5.008 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 10.320 CPU sec, 5.238 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 9.994 CPU sec, 5.140 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 9.387 CPU sec, 4.731 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 1.866 CPU sec, 1.009 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//40.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 32.367 sec; CPU: 62.520 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.344 CPU sec, 5.244 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 9.697 CPU sec, 4.964 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.387 CPU sec, 5.294 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 9.884 CPU sec, 4.978 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 9.599 CPU sec, 4.937 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.390 CPU sec, 5.356 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//40.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 32.165 sec; CPU: 57.649 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.00 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.10 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.05 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//41.fa
+[main] Real time: 0.226 sec; CPU: 0.179 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 10.145 CPU sec, 5.104 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 9.878 CPU sec, 4.967 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 9.914 CPU sec, 5.025 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 10.395 CPU sec, 5.323 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 9.927 CPU sec, 5.040 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 9.528 CPU sec, 4.841 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 1.885 CPU sec, 1.031 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//41.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 32.519 sec; CPU: 62.906 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.367 CPU sec, 5.221 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 9.793 CPU sec, 4.961 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.514 CPU sec, 5.466 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 9.910 CPU sec, 5.030 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 9.788 CPU sec, 4.899 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.169 CPU sec, 3.157 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//41.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 30.103 sec; CPU: 57.933 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.00 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.18 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.09 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//42.fa
+[main] Real time: 0.352 sec; CPU: 0.292 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 10.732 CPU sec, 5.397 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.348 CPU sec, 5.360 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 10.448 CPU sec, 5.229 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 10.762 CPU sec, 5.526 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 10.589 CPU sec, 5.403 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.003 CPU sec, 5.160 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 1.975 CPU sec, 1.790 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//42.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 35.016 sec; CPU: 66.008 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.722 CPU sec, 5.391 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.305 CPU sec, 5.159 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.919 CPU sec, 5.551 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.427 CPU sec, 5.323 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.349 CPU sec, 5.291 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.650 CPU sec, 3.428 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//42.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 31.620 sec; CPU: 60.842 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.00 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.22 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.00 sec
+[bwa_index] Construct SA from BWT and Occ... 0.12 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//43.fa
+[main] Real time: 0.418 sec; CPU: 0.358 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 10.628 CPU sec, 5.331 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.516 CPU sec, 5.320 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 10.413 CPU sec, 5.236 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 10.824 CPU sec, 5.602 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 10.545 CPU sec, 5.341 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.178 CPU sec, 5.165 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 1.970 CPU sec, 1.070 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//43.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 34.357 sec; CPU: 66.438 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.755 CPU sec, 5.432 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.503 CPU sec, 5.371 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.818 CPU sec, 5.443 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.533 CPU sec, 5.352 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.313 CPU sec, 5.229 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.658 CPU sec, 3.436 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//43.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 31.610 sec; CPU: 60.901 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.24 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.00 sec
+[bwa_index] Construct SA from BWT and Occ... 0.10 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//44.fa
+[main] Real time: 0.429 sec; CPU: 0.374 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 10.889 CPU sec, 5.464 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.630 CPU sec, 5.374 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 10.593 CPU sec, 5.359 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 11.008 CPU sec, 5.613 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 10.806 CPU sec, 5.498 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.237 CPU sec, 5.172 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 2.012 CPU sec, 1.863 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//44.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 35.437 sec; CPU: 67.273 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.671 CPU sec, 5.375 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.380 CPU sec, 5.239 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.811 CPU sec, 5.500 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.622 CPU sec, 5.653 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.468 CPU sec, 5.320 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.699 CPU sec, 3.402 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//44.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 31.935 sec; CPU: 61.025 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.49 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.02 sec
+[bwa_index] Construct SA from BWT and Occ... 0.19 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//45.fa
+[main] Real time: 0.812 sec; CPU: 0.730 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 11.320 CPU sec, 5.688 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.991 CPU sec, 5.501 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 11.037 CPU sec, 5.601 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 11.365 CPU sec, 5.765 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 11.220 CPU sec, 5.696 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.874 CPU sec, 5.513 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 2.116 CPU sec, 1.124 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//45.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 35.995 sec; CPU: 70.094 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 11.242 CPU sec, 5.656 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.953 CPU sec, 5.601 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 11.493 CPU sec, 5.901 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 11.100 CPU sec, 5.632 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.826 CPU sec, 5.488 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 7.105 CPU sec, 3.641 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//45.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 33.311 sec; CPU: 64.143 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.02 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.86 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.02 sec
+[bwa_index] Construct SA from BWT and Occ... 0.32 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//46.fa
+[main] Real time: 1.349 sec; CPU: 1.237 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 11.536 CPU sec, 5.793 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.875 CPU sec, 5.630 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 11.103 CPU sec, 5.708 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 11.365 CPU sec, 5.766 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 11.333 CPU sec, 5.703 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.693 CPU sec, 5.389 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 2.096 CPU sec, 1.132 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//46.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 36.329 sec; CPU: 70.227 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 11.119 CPU sec, 5.592 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 10.776 CPU sec, 5.510 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 11.439 CPU sec, 5.843 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.944 CPU sec, 5.555 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.722 CPU sec, 5.384 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.976 CPU sec, 3.562 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//46.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 32.811 sec; CPU: 63.292 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.04 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.90 seconds elapse.
+[bwa_index] Update BWT... 0.02 sec
+[bwa_index] Pack forward-only FASTA... 0.02 sec
+[bwa_index] Construct SA from BWT and Occ... 0.34 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//47.fa
+[main] Real time: 1.461 sec; CPU: 1.331 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 11.613 CPU sec, 5.824 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 11.223 CPU sec, 5.682 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 11.314 CPU sec, 5.667 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 11.649 CPU sec, 5.909 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 11.272 CPU sec, 5.751 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 10.865 CPU sec, 5.542 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 2.130 CPU sec, 1.963 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//47.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 37.564 sec; CPU: 71.270 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 11.381 CPU sec, 5.720 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 11.216 CPU sec, 5.717 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 11.433 CPU sec, 5.791 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 11.196 CPU sec, 5.643 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 10.957 CPU sec, 5.570 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 7.098 CPU sec, 3.629 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//47.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 33.455 sec; CPU: 64.612 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.19 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.09 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//48.fa
+[main] Real time: 0.370 sec; CPU: 0.314 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 211466 sequences (20000159 bp)...
+[M::process] 211466 single-end sequences; 0 paired-end sequences
+[M::process] read 211424 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 211466 reads in 10.490 CPU sec, 5.270 real sec
+[M::process] 211424 single-end sequences; 0 paired-end sequences
+[M::process] read 210566 sequences (20000143 bp)...
+[M::mem_process_seqs] Processed 211424 reads in 10.063 CPU sec, 5.095 real sec
+[M::process] 210566 single-end sequences; 0 paired-end sequences
+[M::process] read 209736 sequences (20000055 bp)...
+[M::mem_process_seqs] Processed 210566 reads in 10.097 CPU sec, 5.201 real sec
+[M::process] 209736 single-end sequences; 0 paired-end sequences
+[M::process] read 209472 sequences (20000146 bp)...
+[M::mem_process_seqs] Processed 209736 reads in 10.476 CPU sec, 5.357 real sec
+[M::process] 209472 single-end sequences; 0 paired-end sequences
+[M::process] read 208956 sequences (20000109 bp)...
+[M::mem_process_seqs] Processed 209472 reads in 10.087 CPU sec, 5.134 real sec
+[M::process] 208956 single-end sequences; 0 paired-end sequences
+[M::process] read 39159 sequences (3774227 bp)...
+[M::mem_process_seqs] Processed 208956 reads in 9.614 CPU sec, 4.849 real sec
+[M::process] 39159 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 39159 reads in 1.907 CPU sec, 1.056 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//48.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D1_rev_paired_trimmed.fq.gz
+[main] Real time: 33.212 sec; CPU: 63.996 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::main_mem] when '-p' is in use, the second query file is ignored.
+[M::process] read 215456 sequences (20000097 bp)...
+[M::process] 215456 single-end sequences; 0 paired-end sequences
+[M::process] read 215216 sequences (20000094 bp)...
+[M::mem_process_seqs] Processed 215456 reads in 10.419 CPU sec, 5.241 real sec
+[M::process] 215216 single-end sequences; 0 paired-end sequences
+[M::process] read 214184 sequences (20000037 bp)...
+[M::mem_process_seqs] Processed 215216 reads in 9.921 CPU sec, 5.033 real sec
+[M::process] 214184 single-end sequences; 0 paired-end sequences
+[M::process] read 212762 sequences (20000073 bp)...
+[M::mem_process_seqs] Processed 214184 reads in 10.610 CPU sec, 5.532 real sec
+[M::process] 212762 single-end sequences; 0 paired-end sequences
+[M::process] read 212826 sequences (20000118 bp)...
+[M::mem_process_seqs] Processed 212762 reads in 10.049 CPU sec, 5.229 real sec
+[M::process] 212826 single-end sequences; 0 paired-end sequences
+[M::process] read 139507 sequences (13199848 bp)...
+[M::mem_process_seqs] Processed 212826 reads in 9.959 CPU sec, 5.086 real sec
+[M::process] 139507 single-end sequences; 0 paired-end sequences
+[M::mem_process_seqs] Processed 139507 reads in 6.359 CPU sec, 3.331 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 2 -p /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output//48.fa /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_fwd_paired_trimmed.fq.gz /home/cean4862/genome_analysis/analyses/01_preprocessing/trimmomatic/RNA_trimmed_data/D3_rev_paired_trimmed.fq.gz
+[main] Real time: 30.889 sec; CPU: 58.768 sec
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...

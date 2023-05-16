@@ -1,0 +1,16 @@
+#!/bin/sh
+module load bioinfo_tools FastQC/0.11.9
+
+# Running FastQC on untrimmed RNA
+
+fastqc -o pretrim_quality RNA_untrimmed_data/*
+
+# Renaming FastQC files
+
+# Filepath: cd /home/cean4862/genome_analysis/analyses/01_preprocessing/pretrim_quality
+
+#for name in SRR4342137*
+#do newname=D1_RNA"$(echo"$name" | cut -11-)"
+#mv "$name" "$newname"
+#done
+

@@ -1,0 +1,30 @@
+2023-04-25 13:03:59 - MEGAHIT v1.2.9
+2023-04-25 13:03:59 - Using megahit_core with POPCNT support
+2023-04-25 13:03:59 - Convert reads to binary library
+2023-04-25 13:06:22 - INFO  sequence/io/sequence_lib.cpp  :   75 - Lib 0 (/domus/h1/cean4862/genome_analysis/analyses/02_assembly/DNA_trimmed/SRR4342129_1.paired.trimmed.fastq.gz,/domus/h1/cean4862/genome_analysis/analyses/02_assembly/DNA_trimmed/SRR4342129_2.paired.trimmed.fastq.gz): pe, 48110692 reads, 101 max length
+2023-04-25 13:09:21 - INFO  sequence/io/sequence_lib.cpp  :   75 - Lib 1 (/domus/h1/cean4862/genome_analysis/analyses/02_assembly/DNA_trimmed/SRR4342133_1.paired.trimmed.fastq.gz,/domus/h1/cean4862/genome_analysis/analyses/02_assembly/DNA_trimmed/SRR4342133_2.paired.trimmed.fastq.gz): pe, 59954188 reads, 101 max length
+2023-04-25 13:09:22 - INFO  utils/utils.h                 :  152 - Real: 322.7144	user: 128.3741	sys: 17.8995	maxrss: 273476
+2023-04-25 13:09:22 - Start assembly. Number of CPU threads 2 
+2023-04-25 13:09:22 - k list: 65,75,85,95,105 
+2023-04-25 13:09:22 - Memory used: 121485448396
+2023-04-25 13:09:22 - Extracting solid (k+1)-mers and building sdbg for k = 65
+2023-04-25 14:26:47 - Assemble contigs from SdBG for k = 65
+2023-04-25 15:10:04 - Local assembly for k = 65
+2023-04-25 16:08:45 - Extract iterative edges from k = 65 to 75 
+2023-04-25 16:17:33 - Build graph for k = 75 
+2023-04-25 16:25:06 - Assemble contigs from SdBG for k = 75
+2023-04-25 16:49:25 - Local assembly for k = 75
+2023-04-25 17:37:54 - Extract iterative edges from k = 75 to 85 
+2023-04-25 17:43:39 - Build graph for k = 85 
+2023-04-25 17:49:14 - Assemble contigs from SdBG for k = 85
+2023-04-25 18:09:45 - Local assembly for k = 85
+2023-04-25 18:45:15 - Extract iterative edges from k = 85 to 95 
+2023-04-25 18:49:18 - Build graph for k = 95 
+2023-04-25 18:54:10 - Assemble contigs from SdBG for k = 95
+2023-04-25 19:10:51 - Local assembly for k = 95
+2023-04-25 19:35:10 - Extract iterative edges from k = 95 to 105 
+2023-04-25 19:35:19 - Build graph for k = 105 
+2023-04-25 19:38:31 - Assemble contigs from SdBG for k = 105
+2023-04-25 19:52:39 - Merging to output final contigs 
+2023-04-25 19:52:42 - 346473 contigs, total 291644458 bp, min 200 bp, max 266140 bp, avg 841 bp, N50 980 bp
+2023-04-25 19:52:43 - ALL DONE. Time elapsed: 24523.895065 seconds 

@@ -1,0 +1,864 @@
+[15:55:37] This is prokka 1.14.6
+[15:55:37] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:37] Homepage is https://github.com/tseemann/prokka
+[15:55:37] Local time is Wed May 10 15:55:37 2023
+[15:55:37] You are cean4862
+[15:55:37] Operating system is linux
+[15:55:37] You have BioPerl 1.007001
+[15:55:37] System has 16 cores.
+[15:55:37] Will use maximum of 8 cores.
+[15:55:37] Annotating as >>> Bacteria <<<
+[15:55:37] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/10.fa' contents.
+[15:55:37] Setting --locustag DHAGOINL from MD5 d1a08275b8ea1051a25178bfce874668
+[15:55:37] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/10.fa
+[15:55:37] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/10\.fa
+[15:55:37] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/10.fa.XXX
+[15:55:37] Setting HMMER_NCPU=1
+[15:55:37] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/10.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/10.fa.log
+[15:55:37] Can't open logfile
+[15:55:37] This is prokka 1.14.6
+[15:55:37] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:37] Homepage is https://github.com/tseemann/prokka
+[15:55:37] Local time is Wed May 10 15:55:37 2023
+[15:55:37] You are cean4862
+[15:55:37] Operating system is linux
+[15:55:37] You have BioPerl 1.007001
+[15:55:37] System has 16 cores.
+[15:55:37] Will use maximum of 8 cores.
+[15:55:37] Annotating as >>> Bacteria <<<
+[15:55:37] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/11.fa' contents.
+[15:55:37] Setting --locustag PDFNDJAA from MD5 9df7d3aa7d247ba62af307a236119e93
+[15:55:37] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/11.fa
+[15:55:37] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/11\.fa
+[15:55:37] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/11.fa.XXX
+[15:55:37] Setting HMMER_NCPU=1
+[15:55:37] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/11.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/11.fa.log
+[15:55:37] Can't open logfile
+[15:55:37] This is prokka 1.14.6
+[15:55:37] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:37] Homepage is https://github.com/tseemann/prokka
+[15:55:37] Local time is Wed May 10 15:55:37 2023
+[15:55:37] You are cean4862
+[15:55:37] Operating system is linux
+[15:55:37] You have BioPerl 1.007001
+[15:55:37] System has 16 cores.
+[15:55:37] Will use maximum of 8 cores.
+[15:55:37] Annotating as >>> Bacteria <<<
+[15:55:37] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/12.fa' contents.
+[15:55:37] Setting --locustag LLGMPIDH from MD5 550692d16cf5a91543485a3430c97337
+[15:55:37] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/12.fa
+[15:55:37] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/12\.fa
+[15:55:37] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/12.fa.XXX
+[15:55:37] Setting HMMER_NCPU=1
+[15:55:37] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/12.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/12.fa.log
+[15:55:37] Can't open logfile
+[15:55:37] This is prokka 1.14.6
+[15:55:37] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:37] Homepage is https://github.com/tseemann/prokka
+[15:55:37] Local time is Wed May 10 15:55:37 2023
+[15:55:37] You are cean4862
+[15:55:37] Operating system is linux
+[15:55:37] You have BioPerl 1.007001
+[15:55:37] System has 16 cores.
+[15:55:37] Will use maximum of 8 cores.
+[15:55:37] Annotating as >>> Bacteria <<<
+[15:55:37] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/13.fa' contents.
+[15:55:37] Setting --locustag MONHCKMP from MD5 6871c46952293ea7702eaf52c6834001
+[15:55:37] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/13.fa
+[15:55:37] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/13\.fa
+[15:55:37] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/13.fa.XXX
+[15:55:37] Setting HMMER_NCPU=1
+[15:55:37] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/13.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/13.fa.log
+[15:55:37] Can't open logfile
+[15:55:38] This is prokka 1.14.6
+[15:55:38] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:38] Homepage is https://github.com/tseemann/prokka
+[15:55:38] Local time is Wed May 10 15:55:38 2023
+[15:55:38] You are cean4862
+[15:55:38] Operating system is linux
+[15:55:38] You have BioPerl 1.007001
+[15:55:38] System has 16 cores.
+[15:55:38] Will use maximum of 8 cores.
+[15:55:38] Annotating as >>> Bacteria <<<
+[15:55:38] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/14.fa' contents.
+[15:55:38] Setting --locustag POCLFLLN from MD5 98c5f557f2eff8ef241655ed1d92e259
+[15:55:38] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/14.fa
+[15:55:38] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/14\.fa
+[15:55:38] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/14.fa.XXX
+[15:55:38] Setting HMMER_NCPU=1
+[15:55:38] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/14.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/14.fa.log
+[15:55:38] Can't open logfile
+[15:55:38] This is prokka 1.14.6
+[15:55:38] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:38] Homepage is https://github.com/tseemann/prokka
+[15:55:38] Local time is Wed May 10 15:55:38 2023
+[15:55:38] You are cean4862
+[15:55:38] Operating system is linux
+[15:55:38] You have BioPerl 1.007001
+[15:55:38] System has 16 cores.
+[15:55:38] Will use maximum of 8 cores.
+[15:55:38] Annotating as >>> Bacteria <<<
+[15:55:38] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/15.fa' contents.
+[15:55:38] Setting --locustag JIMKNJLH from MD5 32647351de2cfae76928264e4a2a5748
+[15:55:38] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/15.fa
+[15:55:38] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/15\.fa
+[15:55:38] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/15.fa.XXX
+[15:55:38] Setting HMMER_NCPU=1
+[15:55:38] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/15.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/15.fa.log
+[15:55:38] Can't open logfile
+[15:55:38] This is prokka 1.14.6
+[15:55:38] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:38] Homepage is https://github.com/tseemann/prokka
+[15:55:38] Local time is Wed May 10 15:55:38 2023
+[15:55:38] You are cean4862
+[15:55:38] Operating system is linux
+[15:55:38] You have BioPerl 1.007001
+[15:55:38] System has 16 cores.
+[15:55:38] Will use maximum of 8 cores.
+[15:55:38] Annotating as >>> Bacteria <<<
+[15:55:38] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/16.fa' contents.
+[15:55:38] Setting --locustag PNEFGABC from MD5 97ef0abc9126fff5ba7ef89308c38ca5
+[15:55:38] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/16.fa
+[15:55:38] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/16\.fa
+[15:55:38] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/16.fa.XXX
+[15:55:38] Setting HMMER_NCPU=1
+[15:55:38] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/16.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/16.fa.log
+[15:55:38] Can't open logfile
+[15:55:38] This is prokka 1.14.6
+[15:55:38] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:38] Homepage is https://github.com/tseemann/prokka
+[15:55:38] Local time is Wed May 10 15:55:38 2023
+[15:55:38] You are cean4862
+[15:55:38] Operating system is linux
+[15:55:38] You have BioPerl 1.007001
+[15:55:38] System has 16 cores.
+[15:55:38] Will use maximum of 8 cores.
+[15:55:38] Annotating as >>> Bacteria <<<
+[15:55:38] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/17.fa' contents.
+[15:55:38] Setting --locustag LCJCLNGL from MD5 5c3c57052b6870863c2eae2172c2b7f8
+[15:55:38] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/17.fa
+[15:55:38] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/17\.fa
+[15:55:38] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/17.fa.XXX
+[15:55:38] Setting HMMER_NCPU=1
+[15:55:38] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/17.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/17.fa.log
+[15:55:38] Can't open logfile
+[15:55:39] This is prokka 1.14.6
+[15:55:39] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:39] Homepage is https://github.com/tseemann/prokka
+[15:55:39] Local time is Wed May 10 15:55:39 2023
+[15:55:39] You are cean4862
+[15:55:39] Operating system is linux
+[15:55:39] You have BioPerl 1.007001
+[15:55:39] System has 16 cores.
+[15:55:39] Will use maximum of 8 cores.
+[15:55:39] Annotating as >>> Bacteria <<<
+[15:55:39] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/18.fa' contents.
+[15:55:39] Setting --locustag EPDIEILF from MD5 e9d2e25fbf2d5351a406b4f0413d0786
+[15:55:39] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/18.fa
+[15:55:39] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/18\.fa
+[15:55:39] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/18.fa.XXX
+[15:55:39] Setting HMMER_NCPU=1
+[15:55:39] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/18.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/18.fa.log
+[15:55:39] Can't open logfile
+[15:55:39] This is prokka 1.14.6
+[15:55:39] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:39] Homepage is https://github.com/tseemann/prokka
+[15:55:39] Local time is Wed May 10 15:55:39 2023
+[15:55:39] You are cean4862
+[15:55:39] Operating system is linux
+[15:55:39] You have BioPerl 1.007001
+[15:55:39] System has 16 cores.
+[15:55:39] Will use maximum of 8 cores.
+[15:55:39] Annotating as >>> Bacteria <<<
+[15:55:39] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/19.fa' contents.
+[15:55:39] Setting --locustag NFLPPIBD from MD5 7f5992bd5343f5c29101d6ede5d8b10e
+[15:55:39] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/19.fa
+[15:55:39] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/19\.fa
+[15:55:39] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/19.fa.XXX
+[15:55:39] Setting HMMER_NCPU=1
+[15:55:39] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/19.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/19.fa.log
+[15:55:39] Can't open logfile
+[15:55:39] This is prokka 1.14.6
+[15:55:39] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:39] Homepage is https://github.com/tseemann/prokka
+[15:55:39] Local time is Wed May 10 15:55:39 2023
+[15:55:39] You are cean4862
+[15:55:39] Operating system is linux
+[15:55:39] You have BioPerl 1.007001
+[15:55:39] System has 16 cores.
+[15:55:39] Will use maximum of 8 cores.
+[15:55:39] Annotating as >>> Bacteria <<<
+[15:55:39] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/1.fa' contents.
+[15:55:39] Setting --locustag JKEKIKGB from MD5 34e4240b4e023b6290cced6e70dd5c4e
+[15:55:39] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/1.fa
+[15:55:39] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/1\.fa
+[15:55:39] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/1.fa.XXX
+[15:55:39] Setting HMMER_NCPU=1
+[15:55:39] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/1.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/1.fa.log
+[15:55:39] Can't open logfile
+[15:55:39] This is prokka 1.14.6
+[15:55:39] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:39] Homepage is https://github.com/tseemann/prokka
+[15:55:39] Local time is Wed May 10 15:55:39 2023
+[15:55:39] You are cean4862
+[15:55:39] Operating system is linux
+[15:55:39] You have BioPerl 1.007001
+[15:55:39] System has 16 cores.
+[15:55:39] Will use maximum of 8 cores.
+[15:55:39] Annotating as >>> Bacteria <<<
+[15:55:39] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/20.fa' contents.
+[15:55:39] Setting --locustag NJHDEAGC from MD5 731dea0c9653ee40ddfd3286aa8a48a2
+[15:55:39] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/20.fa
+[15:55:39] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/20\.fa
+[15:55:39] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/20.fa.XXX
+[15:55:39] Setting HMMER_NCPU=1
+[15:55:39] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/20.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/20.fa.log
+[15:55:39] Can't open logfile
+[15:55:39] This is prokka 1.14.6
+[15:55:39] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:39] Homepage is https://github.com/tseemann/prokka
+[15:55:39] Local time is Wed May 10 15:55:39 2023
+[15:55:39] You are cean4862
+[15:55:39] Operating system is linux
+[15:55:39] You have BioPerl 1.007001
+[15:55:39] System has 16 cores.
+[15:55:39] Will use maximum of 8 cores.
+[15:55:39] Annotating as >>> Bacteria <<<
+[15:55:39] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/21.fa' contents.
+[15:55:39] Setting --locustag DHLBEFLK from MD5 d15bef543d47a3bfd334ea2e01b5f2c0
+[15:55:39] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/21.fa
+[15:55:39] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/21\.fa
+[15:55:39] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/21.fa.XXX
+[15:55:39] Setting HMMER_NCPU=1
+[15:55:39] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/21.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/21.fa.log
+[15:55:39] Can't open logfile
+[15:55:40] This is prokka 1.14.6
+[15:55:40] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:40] Homepage is https://github.com/tseemann/prokka
+[15:55:40] Local time is Wed May 10 15:55:40 2023
+[15:55:40] You are cean4862
+[15:55:40] Operating system is linux
+[15:55:40] You have BioPerl 1.007001
+[15:55:40] System has 16 cores.
+[15:55:40] Will use maximum of 8 cores.
+[15:55:40] Annotating as >>> Bacteria <<<
+[15:55:40] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/22.fa' contents.
+[15:55:40] Setting --locustag EBMCAOIC from MD5 eb6ca82c584be096509ed0dc1087f6dd
+[15:55:40] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/22.fa
+[15:55:40] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/22\.fa
+[15:55:40] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/22.fa.XXX
+[15:55:40] Setting HMMER_NCPU=1
+[15:55:40] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/22.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/22.fa.log
+[15:55:40] Can't open logfile
+[15:55:40] This is prokka 1.14.6
+[15:55:40] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:40] Homepage is https://github.com/tseemann/prokka
+[15:55:40] Local time is Wed May 10 15:55:40 2023
+[15:55:40] You are cean4862
+[15:55:40] Operating system is linux
+[15:55:40] You have BioPerl 1.007001
+[15:55:40] System has 16 cores.
+[15:55:40] Will use maximum of 8 cores.
+[15:55:40] Annotating as >>> Bacteria <<<
+[15:55:40] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/23.fa' contents.
+[15:55:40] Setting --locustag CNCJDFIF from MD5 c7c3df2f97fa612d9c7f1ebb93e36563
+[15:55:40] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/23.fa
+[15:55:40] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/23\.fa
+[15:55:40] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/23.fa.XXX
+[15:55:40] Setting HMMER_NCPU=1
+[15:55:40] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/23.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/23.fa.log
+[15:55:40] Can't open logfile
+[15:55:40] This is prokka 1.14.6
+[15:55:40] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:40] Homepage is https://github.com/tseemann/prokka
+[15:55:40] Local time is Wed May 10 15:55:40 2023
+[15:55:40] You are cean4862
+[15:55:40] Operating system is linux
+[15:55:40] You have BioPerl 1.007001
+[15:55:40] System has 16 cores.
+[15:55:40] Will use maximum of 8 cores.
+[15:55:40] Annotating as >>> Bacteria <<<
+[15:55:40] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/24.fa' contents.
+[15:55:40] Setting --locustag BHGNHNBE from MD5 b10717bececffec2d5df31b082660aa8
+[15:55:40] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/24.fa
+[15:55:40] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/24\.fa
+[15:55:40] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/24.fa.XXX
+[15:55:40] Setting HMMER_NCPU=1
+[15:55:40] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/24.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/24.fa.log
+[15:55:40] Can't open logfile
+[15:55:40] This is prokka 1.14.6
+[15:55:40] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:40] Homepage is https://github.com/tseemann/prokka
+[15:55:40] Local time is Wed May 10 15:55:40 2023
+[15:55:40] You are cean4862
+[15:55:40] Operating system is linux
+[15:55:40] You have BioPerl 1.007001
+[15:55:40] System has 16 cores.
+[15:55:40] Will use maximum of 8 cores.
+[15:55:40] Annotating as >>> Bacteria <<<
+[15:55:40] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/25.fa' contents.
+[15:55:40] Setting --locustag KBKAKCEF from MD5 4b4a4cef388041e157ed9fa06449c684
+[15:55:40] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/25.fa
+[15:55:40] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/25\.fa
+[15:55:40] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/25.fa.XXX
+[15:55:40] Setting HMMER_NCPU=1
+[15:55:40] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/25.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/25.fa.log
+[15:55:40] Can't open logfile
+[15:55:41] This is prokka 1.14.6
+[15:55:41] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:41] Homepage is https://github.com/tseemann/prokka
+[15:55:41] Local time is Wed May 10 15:55:41 2023
+[15:55:41] You are cean4862
+[15:55:41] Operating system is linux
+[15:55:41] You have BioPerl 1.007001
+[15:55:41] System has 16 cores.
+[15:55:41] Will use maximum of 8 cores.
+[15:55:41] Annotating as >>> Bacteria <<<
+[15:55:41] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/26.fa' contents.
+[15:55:41] Setting --locustag EKFDCCBL from MD5 e4fdccb5df0f6ad73391941d4a5fc7b2
+[15:55:41] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/26.fa
+[15:55:41] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/26\.fa
+[15:55:41] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/26.fa.XXX
+[15:55:41] Setting HMMER_NCPU=1
+[15:55:41] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/26.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/26.fa.log
+[15:55:41] Can't open logfile
+[15:55:41] This is prokka 1.14.6
+[15:55:41] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:41] Homepage is https://github.com/tseemann/prokka
+[15:55:41] Local time is Wed May 10 15:55:41 2023
+[15:55:41] You are cean4862
+[15:55:41] Operating system is linux
+[15:55:41] You have BioPerl 1.007001
+[15:55:41] System has 16 cores.
+[15:55:41] Will use maximum of 8 cores.
+[15:55:41] Annotating as >>> Bacteria <<<
+[15:55:41] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/27.fa' contents.
+[15:55:41] Setting --locustag EEDCDJFA from MD5 eedcd3fa9f82ac7a5e3db911e231f086
+[15:55:41] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/27.fa
+[15:55:41] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/27\.fa
+[15:55:41] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/27.fa.XXX
+[15:55:41] Setting HMMER_NCPU=1
+[15:55:41] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/27.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/27.fa.log
+[15:55:41] Can't open logfile
+[15:55:41] This is prokka 1.14.6
+[15:55:41] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:41] Homepage is https://github.com/tseemann/prokka
+[15:55:41] Local time is Wed May 10 15:55:41 2023
+[15:55:41] You are cean4862
+[15:55:41] Operating system is linux
+[15:55:41] You have BioPerl 1.007001
+[15:55:41] System has 16 cores.
+[15:55:41] Will use maximum of 8 cores.
+[15:55:41] Annotating as >>> Bacteria <<<
+[15:55:41] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/28.fa' contents.
+[15:55:41] Setting --locustag KJOLAALA from MD5 4385aa5ac569a85b8c9674b956b0a3bf
+[15:55:41] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/28.fa
+[15:55:41] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/28\.fa
+[15:55:41] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/28.fa.XXX
+[15:55:41] Setting HMMER_NCPU=1
+[15:55:41] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/28.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/28.fa.log
+[15:55:41] Can't open logfile
+[15:55:41] This is prokka 1.14.6
+[15:55:41] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:41] Homepage is https://github.com/tseemann/prokka
+[15:55:41] Local time is Wed May 10 15:55:41 2023
+[15:55:41] You are cean4862
+[15:55:41] Operating system is linux
+[15:55:41] You have BioPerl 1.007001
+[15:55:41] System has 16 cores.
+[15:55:41] Will use maximum of 8 cores.
+[15:55:41] Annotating as >>> Bacteria <<<
+[15:55:41] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/29.fa' contents.
+[15:55:41] Setting --locustag GJGEPLPJ from MD5 030e959388695c731fca28159ee00bc3
+[15:55:41] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/29.fa
+[15:55:41] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/29\.fa
+[15:55:41] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/29.fa.XXX
+[15:55:41] Setting HMMER_NCPU=1
+[15:55:41] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/29.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/29.fa.log
+[15:55:41] Can't open logfile
+[15:55:41] This is prokka 1.14.6
+[15:55:41] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:41] Homepage is https://github.com/tseemann/prokka
+[15:55:41] Local time is Wed May 10 15:55:41 2023
+[15:55:41] You are cean4862
+[15:55:41] Operating system is linux
+[15:55:41] You have BioPerl 1.007001
+[15:55:41] System has 16 cores.
+[15:55:41] Will use maximum of 8 cores.
+[15:55:41] Annotating as >>> Bacteria <<<
+[15:55:41] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/2.fa' contents.
+[15:55:41] Setting --locustag DJLMAIMB from MD5 d356a26b56d0d5a0855687d58c66d68d
+[15:55:41] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/2.fa
+[15:55:41] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/2\.fa
+[15:55:41] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/2.fa.XXX
+[15:55:41] Setting HMMER_NCPU=1
+[15:55:41] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/2.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/2.fa.log
+[15:55:41] Can't open logfile
+[15:55:42] This is prokka 1.14.6
+[15:55:42] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:42] Homepage is https://github.com/tseemann/prokka
+[15:55:42] Local time is Wed May 10 15:55:42 2023
+[15:55:42] You are cean4862
+[15:55:42] Operating system is linux
+[15:55:42] You have BioPerl 1.007001
+[15:55:42] System has 16 cores.
+[15:55:42] Will use maximum of 8 cores.
+[15:55:42] Annotating as >>> Bacteria <<<
+[15:55:42] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/30.fa' contents.
+[15:55:42] Setting --locustag FHIOPMCC from MD5 f12896ccd7a56e1bd25e6406d56164ce
+[15:55:42] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/30.fa
+[15:55:42] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/30\.fa
+[15:55:42] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/30.fa.XXX
+[15:55:42] Setting HMMER_NCPU=1
+[15:55:42] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/30.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/30.fa.log
+[15:55:42] Can't open logfile
+[15:55:42] This is prokka 1.14.6
+[15:55:42] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:42] Homepage is https://github.com/tseemann/prokka
+[15:55:42] Local time is Wed May 10 15:55:42 2023
+[15:55:42] You are cean4862
+[15:55:42] Operating system is linux
+[15:55:42] You have BioPerl 1.007001
+[15:55:42] System has 16 cores.
+[15:55:42] Will use maximum of 8 cores.
+[15:55:42] Annotating as >>> Bacteria <<<
+[15:55:42] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/31.fa' contents.
+[15:55:42] Setting --locustag DHHICAPK from MD5 d112ca94372cc7feb3d22ca52214fb0c
+[15:55:42] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/31.fa
+[15:55:42] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/31\.fa
+[15:55:42] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/31.fa.XXX
+[15:55:42] Setting HMMER_NCPU=1
+[15:55:42] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/31.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/31.fa.log
+[15:55:42] Can't open logfile
+[15:55:42] This is prokka 1.14.6
+[15:55:42] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:42] Homepage is https://github.com/tseemann/prokka
+[15:55:42] Local time is Wed May 10 15:55:42 2023
+[15:55:42] You are cean4862
+[15:55:42] Operating system is linux
+[15:55:42] You have BioPerl 1.007001
+[15:55:42] System has 16 cores.
+[15:55:42] Will use maximum of 8 cores.
+[15:55:42] Annotating as >>> Bacteria <<<
+[15:55:42] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/32.fa' contents.
+[15:55:42] Setting --locustag OFHOEEMF from MD5 8f18ee6f82a3b5630a1d40b4212c5757
+[15:55:42] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/32.fa
+[15:55:42] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/32\.fa
+[15:55:42] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/32.fa.XXX
+[15:55:42] Setting HMMER_NCPU=1
+[15:55:42] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/32.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/32.fa.log
+[15:55:42] Can't open logfile
+[15:55:42] This is prokka 1.14.6
+[15:55:42] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:42] Homepage is https://github.com/tseemann/prokka
+[15:55:42] Local time is Wed May 10 15:55:42 2023
+[15:55:42] You are cean4862
+[15:55:42] Operating system is linux
+[15:55:42] You have BioPerl 1.007001
+[15:55:42] System has 16 cores.
+[15:55:42] Will use maximum of 8 cores.
+[15:55:42] Annotating as >>> Bacteria <<<
+[15:55:42] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/33.fa' contents.
+[15:55:42] Setting --locustag NIOIDANM from MD5 7282da7661e0f39ed2dd5dd35383bdf9
+[15:55:42] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/33.fa
+[15:55:42] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/33\.fa
+[15:55:42] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/33.fa.XXX
+[15:55:42] Setting HMMER_NCPU=1
+[15:55:42] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/33.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/33.fa.log
+[15:55:42] Can't open logfile
+[15:55:43] This is prokka 1.14.6
+[15:55:43] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:43] Homepage is https://github.com/tseemann/prokka
+[15:55:43] Local time is Wed May 10 15:55:43 2023
+[15:55:43] You are cean4862
+[15:55:43] Operating system is linux
+[15:55:43] You have BioPerl 1.007001
+[15:55:43] System has 16 cores.
+[15:55:43] Will use maximum of 8 cores.
+[15:55:43] Annotating as >>> Bacteria <<<
+[15:55:43] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/34.fa' contents.
+[15:55:43] Setting --locustag FLPKIBEN from MD5 f5942be7b3414836ebded45318e02dd1
+[15:55:43] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/34.fa
+[15:55:43] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/34\.fa
+[15:55:43] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/34.fa.XXX
+[15:55:43] Setting HMMER_NCPU=1
+[15:55:43] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/34.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/34.fa.log
+[15:55:43] Can't open logfile
+[15:55:43] This is prokka 1.14.6
+[15:55:43] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:43] Homepage is https://github.com/tseemann/prokka
+[15:55:43] Local time is Wed May 10 15:55:43 2023
+[15:55:43] You are cean4862
+[15:55:43] Operating system is linux
+[15:55:43] You have BioPerl 1.007001
+[15:55:43] System has 16 cores.
+[15:55:43] Will use maximum of 8 cores.
+[15:55:43] Annotating as >>> Bacteria <<<
+[15:55:43] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/35.fa' contents.
+[15:55:43] Setting --locustag HBOKPKHA from MD5 1b84941ac9ee1396fc69a7f471054ccf
+[15:55:43] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/35.fa
+[15:55:43] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/35\.fa
+[15:55:43] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/35.fa.XXX
+[15:55:43] Setting HMMER_NCPU=1
+[15:55:43] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/35.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/35.fa.log
+[15:55:43] Can't open logfile
+[15:55:43] This is prokka 1.14.6
+[15:55:43] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:43] Homepage is https://github.com/tseemann/prokka
+[15:55:43] Local time is Wed May 10 15:55:43 2023
+[15:55:43] You are cean4862
+[15:55:43] Operating system is linux
+[15:55:43] You have BioPerl 1.007001
+[15:55:43] System has 16 cores.
+[15:55:43] Will use maximum of 8 cores.
+[15:55:43] Annotating as >>> Bacteria <<<
+[15:55:43] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/36.fa' contents.
+[15:55:43] Setting --locustag CNMHDJMH from MD5 c761d3615963c5bb82cc2f45ef22a5b4
+[15:55:43] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/36.fa
+[15:55:43] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/36\.fa
+[15:55:43] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/36.fa.XXX
+[15:55:43] Setting HMMER_NCPU=1
+[15:55:43] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/36.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/36.fa.log
+[15:55:43] Can't open logfile
+[15:55:43] This is prokka 1.14.6
+[15:55:43] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:43] Homepage is https://github.com/tseemann/prokka
+[15:55:43] Local time is Wed May 10 15:55:43 2023
+[15:55:43] You are cean4862
+[15:55:43] Operating system is linux
+[15:55:43] You have BioPerl 1.007001
+[15:55:43] System has 16 cores.
+[15:55:43] Will use maximum of 8 cores.
+[15:55:43] Annotating as >>> Bacteria <<<
+[15:55:43] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/37.fa' contents.
+[15:55:43] Setting --locustag PBJKCMEG from MD5 9b34c6e0351b82252f7ad09204592fb7
+[15:55:43] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/37.fa
+[15:55:43] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/37\.fa
+[15:55:43] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/37.fa.XXX
+[15:55:43] Setting HMMER_NCPU=1
+[15:55:43] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/37.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/37.fa.log
+[15:55:43] Can't open logfile
+[15:55:43] This is prokka 1.14.6
+[15:55:43] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:43] Homepage is https://github.com/tseemann/prokka
+[15:55:43] Local time is Wed May 10 15:55:43 2023
+[15:55:43] You are cean4862
+[15:55:43] Operating system is linux
+[15:55:43] You have BioPerl 1.007001
+[15:55:43] System has 16 cores.
+[15:55:43] Will use maximum of 8 cores.
+[15:55:43] Annotating as >>> Bacteria <<<
+[15:55:43] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/38.fa' contents.
+[15:55:43] Setting --locustag DPKEELFE from MD5 d94ee5fe3ba204e8d4e9cd76b37f33e2
+[15:55:43] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/38.fa
+[15:55:43] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/38\.fa
+[15:55:43] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/38.fa.XXX
+[15:55:43] Setting HMMER_NCPU=1
+[15:55:43] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/38.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/38.fa.log
+[15:55:43] Can't open logfile
+[15:55:44] This is prokka 1.14.6
+[15:55:44] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:44] Homepage is https://github.com/tseemann/prokka
+[15:55:44] Local time is Wed May 10 15:55:44 2023
+[15:55:44] You are cean4862
+[15:55:44] Operating system is linux
+[15:55:44] You have BioPerl 1.007001
+[15:55:44] System has 16 cores.
+[15:55:44] Will use maximum of 8 cores.
+[15:55:44] Annotating as >>> Bacteria <<<
+[15:55:44] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/39.fa' contents.
+[15:55:44] Setting --locustag MEENMDIE from MD5 6ee76d2ea12b78f81276301a23a4b600
+[15:55:44] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/39.fa
+[15:55:44] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/39\.fa
+[15:55:44] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/39.fa.XXX
+[15:55:44] Setting HMMER_NCPU=1
+[15:55:44] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/39.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/39.fa.log
+[15:55:44] Can't open logfile
+[15:55:44] This is prokka 1.14.6
+[15:55:44] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:44] Homepage is https://github.com/tseemann/prokka
+[15:55:44] Local time is Wed May 10 15:55:44 2023
+[15:55:44] You are cean4862
+[15:55:44] Operating system is linux
+[15:55:44] You have BioPerl 1.007001
+[15:55:44] System has 16 cores.
+[15:55:44] Will use maximum of 8 cores.
+[15:55:44] Annotating as >>> Bacteria <<<
+[15:55:44] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/3.fa' contents.
+[15:55:44] Setting --locustag ANIMGAOC from MD5 a7260a8c8cf01b73df72163f5c62b325
+[15:55:44] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/3.fa
+[15:55:44] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/3\.fa
+[15:55:44] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/3.fa.XXX
+[15:55:44] Setting HMMER_NCPU=1
+[15:55:44] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/3.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/3.fa.log
+[15:55:44] Can't open logfile
+[15:55:44] This is prokka 1.14.6
+[15:55:44] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:44] Homepage is https://github.com/tseemann/prokka
+[15:55:44] Local time is Wed May 10 15:55:44 2023
+[15:55:44] You are cean4862
+[15:55:44] Operating system is linux
+[15:55:44] You have BioPerl 1.007001
+[15:55:44] System has 16 cores.
+[15:55:44] Will use maximum of 8 cores.
+[15:55:44] Annotating as >>> Bacteria <<<
+[15:55:44] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/40.fa' contents.
+[15:55:44] Setting --locustag LMHAFDAG from MD5 561afda07093946f95e3dbb6af872a83
+[15:55:44] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/40.fa
+[15:55:44] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/40\.fa
+[15:55:44] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/40.fa.XXX
+[15:55:44] Setting HMMER_NCPU=1
+[15:55:44] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/40.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/40.fa.log
+[15:55:44] Can't open logfile
+[15:55:44] This is prokka 1.14.6
+[15:55:44] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:44] Homepage is https://github.com/tseemann/prokka
+[15:55:44] Local time is Wed May 10 15:55:44 2023
+[15:55:44] You are cean4862
+[15:55:44] Operating system is linux
+[15:55:44] You have BioPerl 1.007001
+[15:55:44] System has 16 cores.
+[15:55:44] Will use maximum of 8 cores.
+[15:55:44] Annotating as >>> Bacteria <<<
+[15:55:44] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/41.fa' contents.
+[15:55:44] Setting --locustag BFDKEMOE from MD5 bfd4e68ebbb27a4c21c3ae42e0ddbb89
+[15:55:44] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/41.fa
+[15:55:44] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/41\.fa
+[15:55:44] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/41.fa.XXX
+[15:55:44] Setting HMMER_NCPU=1
+[15:55:44] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/41.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/41.fa.log
+[15:55:44] Can't open logfile
+[15:55:45] This is prokka 1.14.6
+[15:55:45] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:45] Homepage is https://github.com/tseemann/prokka
+[15:55:45] Local time is Wed May 10 15:55:45 2023
+[15:55:45] You are cean4862
+[15:55:45] Operating system is linux
+[15:55:45] You have BioPerl 1.007001
+[15:55:45] System has 16 cores.
+[15:55:45] Will use maximum of 8 cores.
+[15:55:45] Annotating as >>> Bacteria <<<
+[15:55:45] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/42.fa' contents.
+[15:55:45] Setting --locustag EGNMEJLD from MD5 e076e35df5882a8e4c3fa4e103068678
+[15:55:45] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/42.fa
+[15:55:45] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/42\.fa
+[15:55:45] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/42.fa.XXX
+[15:55:45] Setting HMMER_NCPU=1
+[15:55:45] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/42.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/42.fa.log
+[15:55:45] Can't open logfile
+[15:55:45] This is prokka 1.14.6
+[15:55:45] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:45] Homepage is https://github.com/tseemann/prokka
+[15:55:45] Local time is Wed May 10 15:55:45 2023
+[15:55:45] You are cean4862
+[15:55:45] Operating system is linux
+[15:55:45] You have BioPerl 1.007001
+[15:55:45] System has 16 cores.
+[15:55:45] Will use maximum of 8 cores.
+[15:55:45] Annotating as >>> Bacteria <<<
+[15:55:45] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/43.fa' contents.
+[15:55:45] Setting --locustag BPLCPFME from MD5 b95c9f6e447b72e946508de6832a5288
+[15:55:45] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/43.fa
+[15:55:45] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/43\.fa
+[15:55:45] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/43.fa.XXX
+[15:55:45] Setting HMMER_NCPU=1
+[15:55:45] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/43.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/43.fa.log
+[15:55:45] Can't open logfile
+[15:55:45] This is prokka 1.14.6
+[15:55:45] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:45] Homepage is https://github.com/tseemann/prokka
+[15:55:45] Local time is Wed May 10 15:55:45 2023
+[15:55:45] You are cean4862
+[15:55:45] Operating system is linux
+[15:55:45] You have BioPerl 1.007001
+[15:55:45] System has 16 cores.
+[15:55:45] Will use maximum of 8 cores.
+[15:55:45] Annotating as >>> Bacteria <<<
+[15:55:45] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/44.fa' contents.
+[15:55:45] Setting --locustag FBKBBHJO from MD5 fb4bb13893ebd32c5ae2d60b172db1b2
+[15:55:45] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/44.fa
+[15:55:45] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/44\.fa
+[15:55:45] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/44.fa.XXX
+[15:55:45] Setting HMMER_NCPU=1
+[15:55:45] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/44.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/44.fa.log
+[15:55:45] Can't open logfile
+[15:55:45] This is prokka 1.14.6
+[15:55:45] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:45] Homepage is https://github.com/tseemann/prokka
+[15:55:45] Local time is Wed May 10 15:55:45 2023
+[15:55:45] You are cean4862
+[15:55:45] Operating system is linux
+[15:55:45] You have BioPerl 1.007001
+[15:55:45] System has 16 cores.
+[15:55:45] Will use maximum of 8 cores.
+[15:55:45] Annotating as >>> Bacteria <<<
+[15:55:45] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/45.fa' contents.
+[15:55:45] Setting --locustag HDCOPOOP from MD5 1dc89889762b8ce9601d717fb3232f3d
+[15:55:45] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/45.fa
+[15:55:45] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/45\.fa
+[15:55:45] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/45.fa.XXX
+[15:55:45] Setting HMMER_NCPU=1
+[15:55:45] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/45.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/45.fa.log
+[15:55:45] Can't open logfile
+[15:55:45] This is prokka 1.14.6
+[15:55:45] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:45] Homepage is https://github.com/tseemann/prokka
+[15:55:45] Local time is Wed May 10 15:55:45 2023
+[15:55:45] You are cean4862
+[15:55:45] Operating system is linux
+[15:55:45] You have BioPerl 1.007001
+[15:55:45] System has 16 cores.
+[15:55:45] Will use maximum of 8 cores.
+[15:55:45] Annotating as >>> Bacteria <<<
+[15:55:45] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/46.fa' contents.
+[15:55:45] Setting --locustag HGMJJIMO from MD5 106332683a9b2a2d83658f92fab102d1
+[15:55:45] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/46.fa
+[15:55:45] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/46\.fa
+[15:55:45] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/46.fa.XXX
+[15:55:45] Setting HMMER_NCPU=1
+[15:55:45] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/46.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/46.fa.log
+[15:55:45] Can't open logfile
+[15:55:46] This is prokka 1.14.6
+[15:55:46] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:46] Homepage is https://github.com/tseemann/prokka
+[15:55:46] Local time is Wed May 10 15:55:46 2023
+[15:55:46] You are cean4862
+[15:55:46] Operating system is linux
+[15:55:46] You have BioPerl 1.007001
+[15:55:46] System has 16 cores.
+[15:55:46] Will use maximum of 8 cores.
+[15:55:46] Annotating as >>> Bacteria <<<
+[15:55:46] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/47.fa' contents.
+[15:55:46] Setting --locustag GHHMGMPC from MD5 0116069c3f6b376f04de52e45f7aabae
+[15:55:46] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/47.fa
+[15:55:46] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/47\.fa
+[15:55:46] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/47.fa.XXX
+[15:55:46] Setting HMMER_NCPU=1
+[15:55:46] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/47.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/47.fa.log
+[15:55:46] Can't open logfile
+[15:55:46] This is prokka 1.14.6
+[15:55:46] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:46] Homepage is https://github.com/tseemann/prokka
+[15:55:46] Local time is Wed May 10 15:55:46 2023
+[15:55:46] You are cean4862
+[15:55:46] Operating system is linux
+[15:55:46] You have BioPerl 1.007001
+[15:55:46] System has 16 cores.
+[15:55:46] Will use maximum of 8 cores.
+[15:55:46] Annotating as >>> Bacteria <<<
+[15:55:46] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/48.fa' contents.
+[15:55:46] Setting --locustag DAEEKEBH from MD5 daee4eb1b283136125a11e73daba4492
+[15:55:46] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/48.fa
+[15:55:46] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/48\.fa
+[15:55:46] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/48.fa.XXX
+[15:55:46] Setting HMMER_NCPU=1
+[15:55:46] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/48.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/48.fa.log
+[15:55:46] Can't open logfile
+[15:55:46] This is prokka 1.14.6
+[15:55:46] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:46] Homepage is https://github.com/tseemann/prokka
+[15:55:46] Local time is Wed May 10 15:55:46 2023
+[15:55:46] You are cean4862
+[15:55:46] Operating system is linux
+[15:55:46] You have BioPerl 1.007001
+[15:55:46] System has 16 cores.
+[15:55:46] Will use maximum of 8 cores.
+[15:55:46] Annotating as >>> Bacteria <<<
+[15:55:46] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/4.fa' contents.
+[15:55:46] Setting --locustag KDILKEDO from MD5 4d254ed89dbc22bcb7e6bc7ae9a0dfbe
+[15:55:46] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/4.fa
+[15:55:46] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/4\.fa
+[15:55:46] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/4.fa.XXX
+[15:55:46] Setting HMMER_NCPU=1
+[15:55:46] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/4.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/4.fa.log
+[15:55:46] Can't open logfile
+[15:55:46] This is prokka 1.14.6
+[15:55:46] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:46] Homepage is https://github.com/tseemann/prokka
+[15:55:46] Local time is Wed May 10 15:55:46 2023
+[15:55:46] You are cean4862
+[15:55:46] Operating system is linux
+[15:55:46] You have BioPerl 1.007001
+[15:55:46] System has 16 cores.
+[15:55:46] Will use maximum of 8 cores.
+[15:55:46] Annotating as >>> Bacteria <<<
+[15:55:46] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/5.fa' contents.
+[15:55:46] Setting --locustag NNMOMEIA from MD5 77686e2a1461b974f3adf966dff76092
+[15:55:46] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/5.fa
+[15:55:46] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/5\.fa
+[15:55:46] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/5.fa.XXX
+[15:55:46] Setting HMMER_NCPU=1
+[15:55:46] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/5.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/5.fa.log
+[15:55:46] Can't open logfile
+[15:55:47] This is prokka 1.14.6
+[15:55:47] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:47] Homepage is https://github.com/tseemann/prokka
+[15:55:47] Local time is Wed May 10 15:55:47 2023
+[15:55:47] You are cean4862
+[15:55:47] Operating system is linux
+[15:55:47] You have BioPerl 1.007001
+[15:55:47] System has 16 cores.
+[15:55:47] Will use maximum of 8 cores.
+[15:55:47] Annotating as >>> Bacteria <<<
+[15:55:47] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/6.fa' contents.
+[15:55:47] Setting --locustag FFDCCKFF from MD5 ffdcc4ffdf13dc707f8fbf91d55138bd
+[15:55:47] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/6.fa
+[15:55:47] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/6\.fa
+[15:55:47] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/6.fa.XXX
+[15:55:47] Setting HMMER_NCPU=1
+[15:55:47] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/6.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/6.fa.log
+[15:55:47] Can't open logfile
+[15:55:47] This is prokka 1.14.6
+[15:55:47] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:47] Homepage is https://github.com/tseemann/prokka
+[15:55:47] Local time is Wed May 10 15:55:47 2023
+[15:55:47] You are cean4862
+[15:55:47] Operating system is linux
+[15:55:47] You have BioPerl 1.007001
+[15:55:47] System has 16 cores.
+[15:55:47] Will use maximum of 8 cores.
+[15:55:47] Annotating as >>> Bacteria <<<
+[15:55:47] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/7.fa' contents.
+[15:55:47] Setting --locustag DFACMOAH from MD5 dfac68a1736d312a1ec66e3ae9dcff1e
+[15:55:47] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/7.fa
+[15:55:47] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/7\.fa
+[15:55:47] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/7.fa.XXX
+[15:55:47] Setting HMMER_NCPU=1
+[15:55:47] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/7.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/7.fa.log
+[15:55:47] Can't open logfile
+[15:55:47] This is prokka 1.14.6
+[15:55:47] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:47] Homepage is https://github.com/tseemann/prokka
+[15:55:47] Local time is Wed May 10 15:55:47 2023
+[15:55:47] You are cean4862
+[15:55:47] Operating system is linux
+[15:55:47] You have BioPerl 1.007001
+[15:55:47] System has 16 cores.
+[15:55:47] Will use maximum of 8 cores.
+[15:55:47] Annotating as >>> Bacteria <<<
+[15:55:47] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/8.fa' contents.
+[15:55:47] Setting --locustag LOPIDPNL from MD5 5892d9756c7f9da00c482784bba3c6ba
+[15:55:47] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/8.fa
+[15:55:47] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/8\.fa
+[15:55:47] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/8.fa.XXX
+[15:55:47] Setting HMMER_NCPU=1
+[15:55:47] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/8.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/8.fa.log
+[15:55:47] Can't open logfile
+[15:55:47] This is prokka 1.14.6
+[15:55:47] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:55:47] Homepage is https://github.com/tseemann/prokka
+[15:55:47] Local time is Wed May 10 15:55:47 2023
+[15:55:47] You are cean4862
+[15:55:47] Operating system is linux
+[15:55:47] You have BioPerl 1.007001
+[15:55:47] System has 16 cores.
+[15:55:47] Will use maximum of 8 cores.
+[15:55:47] Annotating as >>> Bacteria <<<
+[15:55:47] Generating locus_tag from '/domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/9.fa' contents.
+[15:55:47] Setting --locustag OIPBDNEL from MD5 829bd7e5fed64674e2f3791619af3a6c
+[15:55:47] Creating new output folder: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/9.fa
+[15:55:47] Running: mkdir -p \/domus\/h1\/cean4862\/genome_analysis\/analyses\/04_annotation\/prokka_b\/\/domus\/h1\/cean4862\/genome_analysis\/analyses\/03_binning\/Metabat_output\/9\.fa
+[15:55:47] Using filename prefix: /domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/9.fa.XXX
+[15:55:47] Setting HMMER_NCPU=1
+[15:55:47] Writing log to: /domus/h1/cean4862/genome_analysis/analyses/04_annotation/prokka_b//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/9.fa//domus/h1/cean4862/genome_analysis/analyses/03_binning/Metabat_output/9.fa.log
+[15:55:47] Can't open logfile

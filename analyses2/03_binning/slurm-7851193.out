@@ -1,0 +1,16 @@
+Output depth matrix to depth.txt
+Reference fasta file /home/cean4862/genome_analysis/analyses/02_assembly/Megahit_co_out2/final.contigs.fa
+Output matrix to depth.txt
+Reading reference fasta file: /home/cean4862/genome_analysis/analyses/02_assembly/Megahit_co_out2/final.contigs.fa
+... 346473 sequences
+Opening 2 bams
+Consolidating headers
+Processing bam files
+Thread 0 finished: sorted29.bam with 24078515 reads and 9853635 readsWellMapped
+Thread 1 finished: sorted33.bam with 30010049 reads and 18021460 readsWellMapped
+Creating depth matrix file: depth.txt
+Closing most bam files
+Closing last bam file
+Finished
+MetaBAT 2 (v2.12.1) using minContig 2500, minCV 1.0, minCVSum 1.0, maxP 95%, minS 60, and maxEdges 200. 
+48 bins (60705682 bases in total) formed.
