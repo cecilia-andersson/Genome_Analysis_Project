@@ -1,0 +1,50 @@
+[2023-05-10 10:36:46] INFO: CheckM v1.1.3
+[2023-05-10 10:36:46] INFO: checkm lineage_wf -t 4 -x fa /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output/ /home/cean4862/genome_analysis/analyses/03_binning/checkm/ --reduced_tree
+[2023-05-10 10:36:46] INFO: [CheckM - tree] Placing bins in reference genome tree.
+[2023-05-10 10:36:47] INFO: Identifying marker genes in 48 bins with 4 threads:
+[2023-05-10 10:36:58] INFO: Saving HMM info to file.
+[2023-05-10 10:36:58] INFO: Calculating genome statistics for 48 bins with 4 threads:
+[2023-05-10 10:36:59] INFO: Extracting marker genes to align.
+[2023-05-10 10:36:59] ERROR: Models must be parsed before identifying HMM hits.
+[2023-05-10 10:55:00] INFO: CheckM v1.1.3
+[2023-05-10 10:55:00] INFO: checkm lineage_wf -t 4 -x fa /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output/ /home/cean4862/genome_analysis/analyses/03_binning/checkm/ --reduced_tree
+[2023-05-10 10:55:00] INFO: [CheckM - tree] Placing bins in reference genome tree.
+[2023-05-10 10:55:01] INFO: Identifying marker genes in 48 bins with 4 threads:
+[2023-05-10 10:55:01] INFO: Saving HMM info to file.
+[2023-05-10 10:55:01] INFO: Calculating genome statistics for 48 bins with 4 threads:
+[2023-05-10 10:55:01] INFO: Extracting marker genes to align.
+[2023-05-10 10:55:01] ERROR: Models must be parsed before identifying HMM hits.
+[2023-05-10 10:57:25] INFO: CheckM v1.1.3
+[2023-05-10 10:57:25] INFO: checkm lineage_wf -t 4 -x fa /home/cean4862/genome_analysis/analyses/03_binning/Metabat_output/ /home/cean4862/genome_analysis/analyses/03_binning/checkm/ --reduced_tree
+[2023-05-10 10:57:25] INFO: [CheckM - tree] Placing bins in reference genome tree.
+[2023-05-10 10:57:26] INFO: Identifying marker genes in 48 bins with 4 threads:
+[2023-05-10 10:58:46] INFO: Saving HMM info to file.
+[2023-05-10 10:58:46] INFO: Calculating genome statistics for 48 bins with 4 threads:
+[2023-05-10 10:58:47] INFO: Extracting marker genes to align.
+[2023-05-10 10:58:47] INFO: Parsing HMM hits to marker genes:
+[2023-05-10 10:58:49] INFO: Extracting 43 HMMs with 4 threads:
+[2023-05-10 10:58:50] INFO: Aligning 43 marker genes with 4 threads:
+[2023-05-10 10:58:52] INFO: Reading marker alignment files.
+[2023-05-10 10:58:52] INFO: Concatenating alignments.
+[2023-05-10 10:58:52] INFO: Placing 48 bins into the genome tree with pplacer (be patient).
+[2023-05-10 11:04:34] INFO: { Current stage: 0:07:09.050 || Total: 0:07:09.050 }
+[2023-05-10 11:04:34] INFO: [CheckM - lineage_set] Inferring lineage-specific marker sets.
+[2023-05-10 11:04:34] INFO: Reading HMM info from file.
+[2023-05-10 11:04:34] INFO: Parsing HMM hits to marker genes:
+[2023-05-10 11:04:36] INFO: Determining marker sets for each genome bin.
+[2023-05-10 11:04:44] INFO: Marker set written to: /home/cean4862/genome_analysis/analyses/03_binning/checkm/lineage.ms
+[2023-05-10 11:04:44] INFO: { Current stage: 0:00:10.174 || Total: 0:07:19.225 }
+[2023-05-10 11:04:44] INFO: [CheckM - analyze] Identifying marker genes in bins.
+[2023-05-10 11:04:45] INFO: Identifying marker genes in 48 bins with 4 threads:
+[2023-05-10 11:12:37] INFO: Saving HMM info to file.
+[2023-05-10 11:12:38] INFO: { Current stage: 0:07:54.513 || Total: 0:15:13.739 }
+[2023-05-10 11:12:38] INFO: Parsing HMM hits to marker genes:
+[2023-05-10 11:12:45] INFO: Aligning marker genes with multiple hits in a single bin:
+[2023-05-10 11:12:56] INFO: { Current stage: 0:00:17.524 || Total: 0:15:31.263 }
+[2023-05-10 11:12:56] INFO: Calculating genome statistics for 48 bins with 4 threads:
+[2023-05-10 11:12:57] INFO: { Current stage: 0:00:00.886 || Total: 0:15:32.150 }
+[2023-05-10 11:12:57] INFO: [CheckM - qa] Tabulating genome statistics.
+[2023-05-10 11:12:57] INFO: Calculating AAI between multi-copy marker genes.
+[2023-05-10 11:12:57] INFO: Reading HMM info from file.
+[2023-05-10 11:12:58] INFO: Parsing HMM hits to marker genes:
+[2023-05-10 11:13:05] INFO: { Current stage: 0:00:08.543 || Total: 0:15:40.693 }

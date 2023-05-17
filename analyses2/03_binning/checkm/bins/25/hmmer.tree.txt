@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+k105_139258_6        -            282 Ribosomal_L11        PF00298.14    69    0.0025   12.5   3.9   1   2      0.08        26   -0.3   0.2    37    46    20    29     8    64 0.65 # 3889 # 4734 # 1 # ID=53_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.307
+k105_139258_6        -            282 Ribosomal_L11        PF00298.14    69    0.0025   12.5   3.9   2   2   9.6e-06    0.0031   12.2   0.1    10    41   221   252   215   255 0.88 # 3889 # 4734 # 1 # ID=53_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.307
+k105_291022_4        -            104 SRP_SPB              PF02978.14   104   0.00024   15.9   0.7   1   1   8.8e-07   0.00028   15.7   0.7     4    63     4    59     2    78 0.77 # 3739 # 4050 # 1 # ID=45_4;partial=01;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.337
+k105_5310_9          -            108 TIGR00344            TIGR00344    847     0.028    6.8  11.0   1   1   8.7e-05     0.028    6.8  11.0   699   771    27    98     7   107 0.79 # 4521 # 4844 # -1 # ID=6_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.235
+#
+# Program:         hmmsearch
+# Version:         3.3.1 (Jul 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/01c9ca7f-d06d-43a3-9a34-7ecf160de824
+# Target file:     /home/cean4862/genome_analysis/analyses/03_binning/checkm/bins/25/genes.faa
+# Option settings: hmmsearch --domtblout /home/cean4862/genome_analysis/analyses/03_binning/checkm/bins/25/hmmer.tree.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/01c9ca7f-d06d-43a3-9a34-7ecf160de824 /home/cean4862/genome_analysis/analyses/03_binning/checkm/bins/25/genes.faa 
+# Current dir:     /home/cean4862/genome_analysis/analyses/03_binning
+# Date:            Wed May 10 10:57:47 2023
+# [ok]

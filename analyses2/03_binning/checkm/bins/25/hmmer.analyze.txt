@@ -1,0 +1,30 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+k105_35912_4         -            171 RNA_pol_Rpb8         PF03870.10   138   0.00074   14.3   0.1   1   1   6.6e-06    0.0011   13.8   0.1     8    94    84   165    77   169 0.87 # 2131 # 2643 # -1 # ID=17_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.304
+k105_35907_4         -            171 RNA_pol_Rpb8         PF03870.10   138   0.00084   14.1   0.1   1   1   7.2e-06    0.0012   13.6   0.1     8    94    84   165    77   169 0.88 # 2131 # 2643 # -1 # ID=16_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.290
+k105_237386_3        -            612 UvrC_HhH_N           PF08459.6    155   2.3e-53  174.5   0.1   1   1   1.6e-55     5e-53  173.3   0.1     2   155   385   543   384   543 0.94 # 842 # 2677 # -1 # ID=25_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.297
+k105_170764_1        -            240 S1                   PF00575.18    74   1.2e-13   45.5   2.5   1   2   3.8e-10   6.1e-08   27.3   0.0     3    47    38    84    36   115 0.82 # 1 # 720 # -1 # ID=61_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.289
+k105_170764_1        -            240 S1                   PF00575.18    74   1.2e-13   45.5   2.5   2   2     5e-07   8.1e-05   17.3   1.2    40    73   157   194   122   195 0.84 # 1 # 720 # -1 # ID=61_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.289
+k105_170764_2        -            779 S1                   PF00575.18    74   0.00016   16.3   3.1   1   1   1.4e-06   0.00022   15.9   0.1    10    59   352   400   351   404 0.91 # 821 # 3157 # 1 # ID=61_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.274
+k105_139258_6        -            282 Ribosomal_L11        PF00298.14    69    0.0025   12.5   3.9   1   2      0.08        26   -0.3   0.2    37    46    20    29     8    64 0.65 # 3889 # 4734 # 1 # ID=53_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.307
+k105_139258_6        -            282 Ribosomal_L11        PF00298.14    69    0.0025   12.5   3.9   2   2   9.6e-06    0.0031   12.2   0.1    10    41   221   252   215   255 0.88 # 3889 # 4734 # 1 # ID=53_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.307
+k105_33009_2         -            360 TOBE_2               PF08402.5     75   0.00032   15.3   0.0   1   1   2.3e-06   0.00073   14.1   0.0     2    75   277   343   276   343 0.91 # 149 # 1228 # -1 # ID=15_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.306
+k105_178643_2        -            595 tRNA_anti-codon      PF01336.20    75   6.8e-15   49.3   0.5   1   1   5.6e-17   1.8e-14   48.0   0.5     2    74    22   103    21   104 0.88 # 396 # 2180 # -1 # ID=64_2;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.291
+k105_270370_4        -            114 Ribonuclease_P       PF00825.13   111   1.3e-16   55.1   5.8   1   1   4.5e-19   1.5e-16   54.9   5.8     5   110     6   112     2   113 0.83 # 2439 # 2780 # -1 # ID=38_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.205
+k105_291022_4        -            104 SRP_SPB              PF02978.14   104   0.00024   15.9   0.7   1   1   8.8e-07   0.00028   15.7   0.7     4    63     4    59     2    78 0.77 # 3739 # 4050 # 1 # ID=45_4;partial=01;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.337
+k105_5310_9          -            108 TIGR00344            TIGR00344    847     0.028    6.8  11.0   1   1   8.7e-05     0.028    6.8  11.0   699   771    27    98     7   107 0.79 # 4521 # 4844 # -1 # ID=6_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.235
+k105_87985_4         -            207 MRP-L47              PF06984.8     87    0.0058   11.1   3.7   1   2    0.0029      0.95    4.0   0.1    21    62    30    69    16    90 0.70 # 2521 # 3141 # -1 # ID=35_4;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.309
+k105_87985_4         -            207 MRP-L47              PF06984.8     87    0.0058   11.1   3.7   2   2   0.00017     0.056    8.0   0.1    23    50   176   203   155   206 0.82 # 2521 # 3141 # -1 # ID=35_4;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.309
+k105_130445_8        -            372 TIGR00392            TIGR00392    861   2.9e-07   23.2   2.7   1   1   1.3e-09   4.3e-07   22.7   2.7   611   732   192   317   178   363 0.77 # 3502 # 4617 # -1 # ID=51_8;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.269
+k105_139258_1        -            279 TIGR00329            TIGR00329    305   5.6e-84  276.2   0.1   1   1   2.1e-86   6.7e-84  275.9   0.1     1   257     8   265     8   277 0.96 # 2 # 838 # -1 # ID=53_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.314
+#
+# Program:         hmmsearch
+# Version:         3.3.1 (Jul 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/f1bee4ae-a584-49dd-a3d8-e5bb957f0aca
+# Target file:     /home/cean4862/genome_analysis/analyses/03_binning/checkm/bins/25/genes.faa
+# Option settings: hmmsearch --domtblout /home/cean4862/genome_analysis/analyses/03_binning/checkm/bins/25/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/f1bee4ae-a584-49dd-a3d8-e5bb957f0aca /home/cean4862/genome_analysis/analyses/03_binning/checkm/bins/25/genes.faa 
+# Current dir:     /home/cean4862/genome_analysis/analyses/03_binning
+# Date:            Wed May 10 11:07:02 2023
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+k105_185959_4        -            339 GHMP_kinases_N       PF00288.21    67   6.6e-11   36.7   0.1   1   1   7.4e-13   1.2e-10   35.9   0.1     2    67    94   161    93   161 0.95 # 1553 # 2569 # -1 # ID=3_4;partial=00;start_type=ATG;rbs_motif=AATAT;rbs_spacer=15bp;gc_cont=0.297
+k105_359374_11       -            124 GHMP_kinases_N       PF00288.21    67   5.7e-07   24.1   0.8   1   1     6e-09   9.8e-07   23.4   0.8     2    26    97   121    96   124 0.89 # 9298 # 9669 # 1 # ID=59_11;partial=01;start_type=GTG;rbs_motif=TAAA;rbs_spacer=14bp;gc_cont=0.298
+k105_11202_3         -            266 S1                   PF00575.18    74   7.3e-13   43.0   0.3   1   1     1e-14   3.3e-12   40.9   0.0     2    74     9    83     8    83 0.97 # 2480 # 3277 # -1 # ID=4_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.282
+k105_179486_6        -            191 TIGR00755            TIGR00755    256   0.00015   15.4   0.1   1   1     8e-07   0.00026   14.6   0.1    21    82   121   181   106   188 0.82 # 6072 # 6644 # 1 # ID=57_6;partial=01;start_type=ATG;rbs_motif=TAAA;rbs_spacer=13bp;gc_cont=0.267
+k105_262774_1        -            296 tRNA_anti-codon      PF01336.20    75    0.0003   15.2   0.0   1   1   4.2e-06   0.00068   14.1   0.0    21    59   242   277   215   291 0.79 # 2 # 889 # 1 # ID=34_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.269
+k105_147225_4        -            374 tRNA_anti-codon      PF01336.20    75    0.0004   14.8   0.1   1   1   5.2e-06   0.00084   13.8   0.1    44    75     7    40     2    40 0.90 # 1505 # 2626 # -1 # ID=52_4;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.340
+k105_11202_3         -            266 EXOSC1               PF10447.4     82   0.00078   14.0   0.5   1   2   1.4e-05    0.0045   11.5   0.1     1    27     8    34     8   125 0.76 # 2480 # 3277 # -1 # ID=4_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.282
+k105_11202_3         -            266 EXOSC1               PF10447.4     82   0.00078   14.0   0.5   2   2     0.066        21   -0.2   0.0    44    60   200   232   155   241 0.53 # 2480 # 3277 # -1 # ID=4_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.282
+k105_275046_2        -            581 TIGR00329            TIGR00329    305   3.1e-08   27.4   0.0   1   1   1.7e-10   5.4e-08   26.6   0.0   105   283   138   327   125   337 0.73 # 435 # 2177 # -1 # ID=39_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.306
+#
+# Program:         hmmsearch
+# Version:         3.3.1 (Jul 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/3bdffca6-64ba-458a-a61a-a066bc75bfa1
+# Target file:     /home/cean4862/genome_analysis/analyses/03_binning/checkm/bins/3/genes.faa
+# Option settings: hmmsearch --domtblout /home/cean4862/genome_analysis/analyses/03_binning/checkm/bins/3/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/3bdffca6-64ba-458a-a61a-a066bc75bfa1 /home/cean4862/genome_analysis/analyses/03_binning/checkm/bins/3/genes.faa 
+# Current dir:     /home/cean4862/genome_analysis/analyses/03_binning
+# Date:            Wed May 10 11:07:40 2023
+# [ok]

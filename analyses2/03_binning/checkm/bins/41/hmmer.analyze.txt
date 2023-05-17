@@ -1,0 +1,30 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+k105_223658_2        -            198 RuvA_N               PF01330.16    61   1.4e-25   83.8   0.0   1   2   1.1e-26   4.6e-24   79.0   0.0     1    61     1    62     1    62 0.99 # 1910 # 2503 # -1 # ID=24_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.365
+k105_223658_2        -            198 RuvA_N               PF01330.16    61   1.4e-25   83.8   0.0   2   2     0.015       6.2    1.7   0.0    22    53   163   191   154   193 0.85 # 1910 # 2503 # -1 # ID=24_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.365
+k105_134682_2        -            284 GHMP_kinases_N       PF00288.21    67   1.9e-13   45.3   0.0   1   1     1e-15   4.4e-13   44.1   0.0     2    66    84   140    83   141 0.92 # 686 # 1537 # -1 # ID=65_2;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.366
+k105_42868_1         -            395 Lon_C                PF05362.8    205   4.7e-96  314.9   1.3   1   1   1.7e-98   7.3e-96  314.3   1.3     2   204   191   393   190   394 0.99 # 2 # 1186 # 1 # ID=21_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.397
+k105_223658_2        -            198 Ribosomal_S13        PF00416.17   107    0.0012   14.2   0.2   1   1   1.5e-05    0.0064   11.9   0.2     8    57    66   113    60   191 0.84 # 1910 # 2503 # -1 # ID=24_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.365
+k105_42868_1         -            395 ChlI                 PF13541.1    121   8.3e-10   33.2   0.1   1   1     4e-12   1.7e-09   32.2   0.1     1   121   234   361   234   361 0.87 # 2 # 1186 # 1 # ID=21_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.397
+k105_88031_5         -            354 TOBE                 PF03459.12    64   1.4e-12   42.5   0.1   1   1   8.4e-15   3.6e-12   41.2   0.1     1    62   290   351   290   353 0.98 # 3382 # 4443 # -1 # ID=48_5;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.371
+k105_350132_3        -            345 TOBE_2               PF08402.5     75   3.8e-11   37.8   0.0   1   1   3.7e-13   7.8e-11   36.8   0.0     1    75   268   335   268   335 0.93 # 1466 # 2500 # 1 # ID=83_3;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.387
+k105_219234_2        -            339 TOBE_2               PF08402.5     75   9.2e-11   36.6   0.0   1   1   8.6e-13   1.8e-10   35.6   0.0     2    75   263   331   262   331 0.95 # 932 # 1948 # 1 # ID=20_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.394
+k105_134682_2        -            284 RRM_1                PF00076.17    70    0.0039   11.8   0.0   1   1   2.6e-05     0.011   10.3   0.0    40    64   239   263   213   264 0.88 # 686 # 1537 # -1 # ID=65_2;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.366
+k105_2324_15         -            118 Ribonuclease_P       PF00825.13   111   3.2e-25   83.2   2.1   1   1   8.4e-28   3.6e-25   83.0   2.1     2   110     6   110     5   111 0.93 # 10058 # 10411 # -1 # ID=4_15;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.379
+k105_89764_6         -            614 TIGR00392            TIGR00392    861  1.3e-175  580.6   0.6   1   1    1e-177  1.5e-175  580.4   0.6   313   859     1   519     1   521 0.94 # 4706 # 6547 # -1 # ID=50_6;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.382
+k105_355390_3        -            820 TIGR00392            TIGR00392    861   3.9e-76  251.5   4.8   1   4     3e-28   4.3e-26   85.9   1.5     5   191     4   171     1   174 0.90 # 1772 # 4231 # -1 # ID=84_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.403
+k105_355390_3        -            820 TIGR00392            TIGR00392    861   3.9e-76  251.5   4.8   2   4   1.2e-05    0.0017   11.1   0.0   407   457   174   224   172   229 0.89 # 1772 # 4231 # -1 # ID=84_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.403
+k105_355390_3        -            820 TIGR00392            TIGR00392    861   3.9e-76  251.5   4.8   3   4   2.2e-10   3.1e-08   26.8   0.1   201   361   227   367   218   403 0.71 # 1772 # 4231 # -1 # ID=84_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.403
+k105_355390_3        -            820 TIGR00392            TIGR00392    861   3.9e-76  251.5   4.8   4   4   1.4e-39     2e-37  123.4   0.0   460   855   415   799   409   805 0.77 # 1772 # 4231 # -1 # ID=84_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.403
+k105_246052_1        -            392 TIGR00392            TIGR00392    861   6.7e-09   29.0   0.0   1   1   7.2e-11     1e-08   28.4   0.0   605   669   260   323   244   346 0.86 # 1 # 1176 # -1 # ID=40_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.363
+#
+# Program:         hmmsearch
+# Version:         3.3.1 (Jul 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/cc0b41da-b9ba-42fc-9e7a-7cbc084a09a8
+# Target file:     /home/cean4862/genome_analysis/analyses/03_binning/checkm/bins/41/genes.faa
+# Option settings: hmmsearch --domtblout /home/cean4862/genome_analysis/analyses/03_binning/checkm/bins/41/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/cc0b41da-b9ba-42fc-9e7a-7cbc084a09a8 /home/cean4862/genome_analysis/analyses/03_binning/checkm/bins/41/genes.faa 
+# Current dir:     /home/cean4862/genome_analysis/analyses/03_binning
+# Date:            Wed May 10 11:09:29 2023
+# [ok]

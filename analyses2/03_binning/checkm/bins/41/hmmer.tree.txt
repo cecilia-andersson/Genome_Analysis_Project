@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+k105_355390_3        -            820 TIGR00422            TIGR00422    863   7.2e-95  313.3   6.5   1   5   1.8e-40   2.5e-38  126.2   1.3     1   187     1   171     1   174 0.92 # 1772 # 4231 # -1 # ID=84_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.403
+k105_355390_3        -            820 TIGR00422            TIGR00422    863   7.2e-95  313.3   6.5   2   5   7.3e-06     0.001   11.7   0.3   342   396   174   225   168   228 0.91 # 1772 # 4231 # -1 # ID=84_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.403
+k105_355390_3        -            820 TIGR00422            TIGR00422    863   7.2e-95  313.3   6.5   3   5   0.00027     0.039    6.5   0.0   200   230   233   260   228   265 0.80 # 1772 # 4231 # -1 # ID=84_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.403
+k105_355390_3        -            820 TIGR00422            TIGR00422    863   7.2e-95  313.3   6.5   4   5   1.9e-15   2.7e-13   43.4   0.0   244   330   307   406   304   415 0.88 # 1772 # 4231 # -1 # ID=84_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.403
+k105_355390_3        -            820 TIGR00422            TIGR00422    863   7.2e-95  313.3   6.5   5   5   3.7e-39   5.2e-37  121.8   0.0   398   739   415   770   413   818 0.74 # 1772 # 4231 # -1 # ID=84_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.403
+k105_89764_6         -            614 TIGR00422            TIGR00422    863   8.8e-88  289.8   1.8   1   1   7.5e-90   1.1e-87  289.6   1.8   256   792     1   555     1   582 0.85 # 4706 # 6547 # -1 # ID=50_6;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.382
+k105_246052_1        -            392 TIGR00422            TIGR00422    863   6.7e-10   32.2   0.2   1   2    0.0016      0.22    4.0   0.0    48    75    36    63     6    78 0.87 # 1 # 1176 # -1 # ID=40_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.363
+k105_246052_1        -            392 TIGR00422            TIGR00422    863   6.7e-10   32.2   0.2   2   2   2.8e-10     4e-08   26.3   0.0   521   587   261   326   237   348 0.87 # 1 # 1176 # -1 # ID=40_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.363
+#
+# Program:         hmmsearch
+# Version:         3.3.1 (Jul 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/f27ad9fa-9e48-4375-9ec3-2e82ec49037f
+# Target file:     /home/cean4862/genome_analysis/analyses/03_binning/checkm/bins/41/genes.faa
+# Option settings: hmmsearch --domtblout /home/cean4862/genome_analysis/analyses/03_binning/checkm/bins/41/hmmer.tree.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/f27ad9fa-9e48-4375-9ec3-2e82ec49037f /home/cean4862/genome_analysis/analyses/03_binning/checkm/bins/41/genes.faa 
+# Current dir:     /home/cean4862/genome_analysis/analyses/03_binning
+# Date:            Wed May 10 10:58:15 2023
+# [ok]

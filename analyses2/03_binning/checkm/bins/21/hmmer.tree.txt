@@ -1,0 +1,28 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+k105_40048_1         -             69 Ribosom_S12_S23      PF00164.20   122   4.2e-36  119.2   0.1   1   1   4.5e-39   4.5e-36  119.1   0.1    39   107     1    69     1    69 0.97 # 2 # 208 # -1 # ID=59_1;partial=10;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.609
+k105_81641_1         -            142 Ribosomal_L11        PF00298.14    69   2.7e-28   94.1   1.4   1   1   4.5e-31   4.5e-28   93.4   1.4     1    69    71   139    71   139 0.99 # 53 # 478 # 1 # ID=102_1;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.577
+k105_190931_1        -            251 Ribosomal_S2         PF00318.15   211   9.2e-80  262.9   0.0   1   1     1e-82     1e-79  262.7   0.0     1   211     9   225     9   225 0.99 # 2 # 754 # -1 # ID=14_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.602
+k105_81641_3         -            182 Ribosomal_L10        PF00466.15   100   1.4e-15   53.2   0.0   1   1   1.8e-18   1.8e-15   52.9   0.0     2    98     2    97     1    99 0.91 # 1330 # 1875 # 1 # ID=102_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.606
+k105_81641_2         -            227 Ribosomal_L1         PF00687.16   220   2.6e-50  166.9   0.0   1   1     3e-53     3e-50  166.7   0.0     4   220    30   221     9   221 0.92 # 594 # 1274 # 1 # ID=102_2;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.580
+k105_750_2           -            229 Ribosomal_L29        PF00831.18    58   0.00065   15.5   0.5   1   2   0.00033      0.33    6.9   0.5     7    32    59    84    55    90 0.89 # 2095 # 2781 # -1 # ID=3_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.557
+k105_750_2           -            229 Ribosomal_L29        PF00831.18    58   0.00065   15.5   0.5   2   2   0.00064      0.64    6.0   0.0    10    34   195   219   194   223 0.89 # 2095 # 2781 # -1 # ID=3_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.557
+k105_93181_1         -            218 TruB_N               PF01509.13   149   9.7e-44  145.3   0.0   1   1   1.2e-46   1.2e-43  145.0   0.0     4   149    32   177    29   177 0.97 # 3 # 656 # -1 # ID=111_1;partial=10;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.627
+k105_81641_1         -            142 Ribosomal_L11_N      PF03946.9     60   5.2e-27   89.3   0.4   1   1   8.5e-30   8.5e-27   88.6   0.4     3    60    10    66     8    66 0.97 # 53 # 478 # 1 # ID=102_1;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.577
+k105_63857_2         -            747 TIGR00422            TIGR00422    863  1.9e-212  703.5   0.0   1   3   1.1e-93   5.6e-91  301.6   0.0     2   233    38   272    37   277 0.97 # 969 # 3209 # 1 # ID=88_2;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.636
+k105_63857_2         -            747 TIGR00422            TIGR00422    863  1.9e-212  703.5   0.0   2   3  3.6e-122  1.8e-119  395.9   0.0   242   565   327   676   322   681 0.96 # 969 # 3209 # 1 # ID=88_2;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.636
+k105_63857_2         -            747 TIGR00422            TIGR00422    863  1.9e-212  703.5   0.0   3   3    0.0035       1.7    2.2   0.0   568   584   731   747   715   747 0.91 # 969 # 3209 # 1 # ID=88_2;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.636
+k105_229034_1        -            299 TIGR00422            TIGR00422    863   5.4e-28   93.2   0.7   1   3   4.6e-24   2.3e-21   71.3   0.2     4   161     3   145     1   148 0.86 # 2 # 898 # -1 # ID=75_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.649
+k105_229034_1        -            299 TIGR00422            TIGR00422    863   5.4e-28   93.2   0.7   2   3   1.9e-06   0.00096   13.0   0.0   161   188   181   208   167   211 0.88 # 2 # 898 # -1 # ID=75_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.649
+k105_229034_1        -            299 TIGR00422            TIGR00422    863   5.4e-28   93.2   0.7   3   3    0.0023       1.1    2.8   0.0   342   395   210   259   208   262 0.88 # 2 # 898 # -1 # ID=75_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.649
+#
+# Program:         hmmsearch
+# Version:         3.3.1 (Jul 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/b1041622-02a1-4600-9730-cc65aa3e72c4
+# Target file:     /home/cean4862/genome_analysis/analyses/03_binning/checkm/bins/21/genes.faa
+# Option settings: hmmsearch --domtblout /home/cean4862/genome_analysis/analyses/03_binning/checkm/bins/21/hmmer.tree.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/b1041622-02a1-4600-9730-cc65aa3e72c4 /home/cean4862/genome_analysis/analyses/03_binning/checkm/bins/21/genes.faa 
+# Current dir:     /home/cean4862/genome_analysis/analyses/03_binning
+# Date:            Wed May 10 10:57:46 2023
+# [ok]
